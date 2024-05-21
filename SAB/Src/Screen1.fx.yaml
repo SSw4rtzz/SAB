@@ -5,7 +5,7 @@
         Width: =Parent.Width
         ZIndex: =1
 
-    "BrowseGallery1 As gallery.'BrowseLayout_Vertical_OneTextOneImageVariant_ver5.0'":
+    "BrowseGallery1 As gallery.'BrowseLayout_Vertical_TwoTextOneImageVariant_ver5.0'":
         DelayItemLoading: =true
         Height: =Parent.Height - Self.Y
         Items: =SortByColumns(Search(CustomGallerySample, TextSearchBox1.Text, SampleText), "SampleText", If(SortDescending1, SortOrder.Descending, SortOrder.Ascending))
