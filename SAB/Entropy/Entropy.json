@@ -3,29 +3,29 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
-    "BrowseGallery1": 13,
-    "galleryTemplate1": 14,
+    "BrowseGallery1": 14,
+    "galleryTemplate1": 15,
     "Host": 3,
-    "IconNewItem1": 9,
-    "IconRefresh1": 7,
-    "IconSortUpDown1": 8,
-    "Image1": 16,
-    "LblAppName1": 6,
-    "NextArrow1": 17,
-    "Rectangle1": 15,
-    "Rectangle11": 12,
-    "RectQuickActionBar1": 5,
-    "Screen1": 4,
-    "Screen2": 21,
-    "SearchIcon1": 11,
-    "Separator1": 20,
-    "Subtitle1": 19,
-    "TextSearchBox1": 10,
-    "Title1": 18
+    "IconNewItem1": 10,
+    "IconRefresh1": 8,
+    "IconSortUpDown1": 9,
+    "Image1": 17,
+    "LblAppName1": 7,
+    "NextArrow1": 18,
+    "Rectangle1": 16,
+    "Rectangle11": 13,
+    "RectQuickActionBar1": 6,
+    "Screen1": 5,
+    "Screen2": 4,
+    "SearchIcon1": 12,
+    "Separator1": 21,
+    "Subtitle1": 20,
+    "TextSearchBox1": 11,
+    "Title1": 19
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "05/21/2024 17:57:29",
+  "HeaderLastSavedDateTimeUTC": "05/21/2024 17:59:54",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": true,
@@ -99,7 +99,7 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.2524089,
+    "AnalysisLoadTime": 0.1995245,
     "ControlCount": {
       "gallery": 1,
       "galleryTemplate": 1,
@@ -110,7 +110,7 @@
       "screen": 2,
       "text": 1
     },
-    "DeserializationLoadTime": 0.4233339
+    "DeserializationLoadTime": 0.6380294
   },
   "WasLocalDatabaseReferencesEmpty": true
 }
