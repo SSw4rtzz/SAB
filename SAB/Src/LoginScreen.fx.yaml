@@ -48,7 +48,7 @@ LoginScreen As screen:
         HoverFill: =ColorFade(LoginAsUser.Fill, 20%)
         OnSelect: |-
             =Set(isAdmin,false);
-            Navigate(MyTicketsScreen,BorderStyle.None)
+            Navigate(Utilizador_Reservas,BorderStyle.None)
         PressedBorderColor: =LoginAsUser.Fill
         PressedColor: =LoginAsUser.Fill
         PressedFill: =LoginAsUser.Color
@@ -79,7 +79,7 @@ LoginScreen As screen:
         OnSelect: |-
             =
             If(MyProfile.Mail in AdminList.Value,Set(isAdmin,true),Set(isAdmin,false));
-            If(isAdmin,Navigate(MyTicketsScreen,BorderStyle.None),Set(ShowAccessError,true))
+            If(isAdmin,Navigate(Utilizador_Reservas,BorderStyle.None),Set(ShowAccessError,true))
         PressedBorderColor: =LoginAsAdmin.Fill
         PressedColor: =LoginAsAdmin.Fill
         PressedFill: =LoginAsAdmin.Color

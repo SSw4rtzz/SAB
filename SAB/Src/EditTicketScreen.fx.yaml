@@ -920,7 +920,7 @@ EditTicketScreen As screen:
                     Reset(EditTicketScreenPriorityDropDown);
                     Reset(EditTicketScreenCategoryDropDown);
                     Reset(EditTicketScreenCompletedSlider);
-                    Navigate(MyTicketsScreen,BorderStyle.None)
+                    Navigate(Utilizador_Reservas,BorderStyle.None)
                 PaddingBottom: =0
                 PaddingLeft: =0
                 PaddingRight: =0
@@ -981,7 +981,7 @@ EditTicketScreen As screen:
                     ));  
                     Reset(EditTicketScreenCompletedSlider);
                     Reset(EditTicketScreenStatusDropdown);
-                    Navigate(MyTicketsScreen,BorderStyle.None)
+                    Navigate(Utilizador_Reservas,BorderStyle.None)
                 PaddingBottom: =0
                 PaddingLeft: =0
                 PaddingRight: =0

@@ -440,7 +440,7 @@ CreateTicketScreen As screen:
             Reset(CreateTicketScreenTaskDescription);
             Reset(CreateTicketScreenCategoryDropDown);
             Reset(CreateTicketScreenPriorityDropDown);
-            Navigate(MyTicketsScreen,BorderStyle.None)
+            Navigate(Utilizador_Reservas,BorderStyle.None)
         PaddingBottom: =0
         PaddingLeft: =0
         PaddingRight: =0

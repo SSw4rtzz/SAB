@@ -132,7 +132,7 @@
     "LoginScreen",
     "ConfirmSubmitScreen",
     "ConfirmationDeleteScreen",
-    "MyTicketsScreen",
+    "Utilizador_Reservas",
     "ViewTicketScreen",
     "CreateTicketScreen",
     "EditTicketScreen",

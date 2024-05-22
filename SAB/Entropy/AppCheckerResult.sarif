@@ -284,19 +284,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "MyTicketsScreen.MyTicketsScreenLogoutIcon.AccessibleLabel"
+                  "fullyQualifiedName": "Utilizador_Reservas.MyTicketsScreenLogoutIcon.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "MyTicketsScreen.MyTicketsScreenLogoutIcon.AccessibleLabel",
+                  "fullyQualifiedName": "Utilizador_Reservas.MyTicketsScreenLogoutIcon.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "MyTicketsScreen",
-                "type": "MyTicketsScreen.MyTicketsScreenLogoutIcon"
+                "module": "Utilizador_Reservas",
+                "type": "Utilizador_Reservas.MyTicketsScreenLogoutIcon"
               }
             }
           ],
@@ -314,19 +314,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "MyTicketsScreen.MyTicketsScreenLogoutIcon.TabIndex"
+                  "fullyQualifiedName": "Utilizador_Reservas.MyTicketsScreenLogoutIcon.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "MyTicketsScreen.MyTicketsScreenLogoutIcon.TabIndex",
+                  "fullyQualifiedName": "Utilizador_Reservas.MyTicketsScreenLogoutIcon.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "MyTicketsScreen",
-                "type": "MyTicketsScreen.MyTicketsScreenLogoutIcon"
+                "module": "Utilizador_Reservas",
+                "type": "Utilizador_Reservas.MyTicketsScreenLogoutIcon"
               }
             }
           ],
@@ -344,19 +344,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "MyTicketsScreen.MyTicketsScreenAddButtonCircle.AccessibleLabel"
+                  "fullyQualifiedName": "Utilizador_Reservas.MyTicketsScreenAddButtonCircle.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "MyTicketsScreen.MyTicketsScreenAddButtonCircle.AccessibleLabel",
+                  "fullyQualifiedName": "Utilizador_Reservas.MyTicketsScreenAddButtonCircle.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "MyTicketsScreen",
-                "type": "MyTicketsScreen.MyTicketsScreenAddButtonCircle"
+                "module": "Utilizador_Reservas",
+                "type": "Utilizador_Reservas.MyTicketsScreenAddButtonCircle"
               }
             }
           ],
@@ -374,19 +374,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "MyTicketsScreen.MyTicketsScreenAddButtonCircle.FocusedBorderThickness"
+                  "fullyQualifiedName": "Utilizador_Reservas.MyTicketsScreenAddButtonCircle.FocusedBorderThickness"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "MyTicketsScreen.MyTicketsScreenAddButtonCircle.FocusedBorderThickness",
+                  "fullyQualifiedName": "Utilizador_Reservas.MyTicketsScreenAddButtonCircle.FocusedBorderThickness",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "FocusedBorderThickness",
-                "module": "MyTicketsScreen",
-                "type": "MyTicketsScreen.MyTicketsScreenAddButtonCircle"
+                "module": "Utilizador_Reservas",
+                "type": "Utilizador_Reservas.MyTicketsScreenAddButtonCircle"
               }
             }
           ],
@@ -404,19 +404,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "MyTicketsScreen.MyTicketsScreenAddButtonCircle.TabIndex"
+                  "fullyQualifiedName": "Utilizador_Reservas.MyTicketsScreenAddButtonCircle.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "MyTicketsScreen.MyTicketsScreenAddButtonCircle.TabIndex",
+                  "fullyQualifiedName": "Utilizador_Reservas.MyTicketsScreenAddButtonCircle.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "MyTicketsScreen",
-                "type": "MyTicketsScreen.MyTicketsScreenAddButtonCircle"
+                "module": "Utilizador_Reservas",
+                "type": "Utilizador_Reservas.MyTicketsScreenAddButtonCircle"
               }
             }
           ],
@@ -434,19 +434,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "MyTicketsScreen.MyTicketsScreenAddButtonPlus.AccessibleLabel"
+                  "fullyQualifiedName": "Utilizador_Reservas.MyTicketsScreenAddButtonPlus.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "MyTicketsScreen.MyTicketsScreenAddButtonPlus.AccessibleLabel",
+                  "fullyQualifiedName": "Utilizador_Reservas.MyTicketsScreenAddButtonPlus.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "MyTicketsScreen",
-                "type": "MyTicketsScreen.MyTicketsScreenAddButtonPlus"
+                "module": "Utilizador_Reservas",
+                "type": "Utilizador_Reservas.MyTicketsScreenAddButtonPlus"
               }
             }
           ],
@@ -464,19 +464,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "MyTicketsScreen.MyTicketsScreenAddButtonPlus.TabIndex"
+                  "fullyQualifiedName": "Utilizador_Reservas.MyTicketsScreenAddButtonPlus.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "MyTicketsScreen.MyTicketsScreenAddButtonPlus.TabIndex",
+                  "fullyQualifiedName": "Utilizador_Reservas.MyTicketsScreenAddButtonPlus.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "MyTicketsScreen",
-                "type": "MyTicketsScreen.MyTicketsScreenAddButtonPlus"
+                "module": "Utilizador_Reservas",
+                "type": "Utilizador_Reservas.MyTicketsScreenAddButtonPlus"
               }
             }
           ],
@@ -494,19 +494,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "MyTicketsScreen.MyTicketsScreenAddButtonPlus.FocusedBorderThickness"
+                  "fullyQualifiedName": "Utilizador_Reservas.MyTicketsScreenAddButtonPlus.FocusedBorderThickness"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "MyTicketsScreen.MyTicketsScreenAddButtonPlus.FocusedBorderThickness",
+                  "fullyQualifiedName": "Utilizador_Reservas.MyTicketsScreenAddButtonPlus.FocusedBorderThickness",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "FocusedBorderThickness",
-                "module": "MyTicketsScreen",
-                "type": "MyTicketsScreen.MyTicketsScreenAddButtonPlus"
+                "module": "Utilizador_Reservas",
+                "type": "Utilizador_Reservas.MyTicketsScreenAddButtonPlus"
               }
             }
           ],
@@ -524,19 +524,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "MyTicketsScreen.MyTicketsScreenLogoutText.FocusedBorderThickness"
+                  "fullyQualifiedName": "Utilizador_Reservas.MyTicketsScreenLogoutText.FocusedBorderThickness"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "MyTicketsScreen.MyTicketsScreenLogoutText.FocusedBorderThickness",
+                  "fullyQualifiedName": "Utilizador_Reservas.MyTicketsScreenLogoutText.FocusedBorderThickness",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "FocusedBorderThickness",
-                "module": "MyTicketsScreen",
-                "type": "MyTicketsScreen.MyTicketsScreenLogoutText"
+                "module": "Utilizador_Reservas",
+                "type": "Utilizador_Reservas.MyTicketsScreenLogoutText"
               }
             }
           ],
@@ -554,19 +554,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "MyTicketsScreen.MyTicketsScreenLogoutText.TabIndex"
+                  "fullyQualifiedName": "Utilizador_Reservas.MyTicketsScreenLogoutText.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "MyTicketsScreen.MyTicketsScreenLogoutText.TabIndex",
+                  "fullyQualifiedName": "Utilizador_Reservas.MyTicketsScreenLogoutText.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "MyTicketsScreen",
-                "type": "MyTicketsScreen.MyTicketsScreenLogoutText"
+                "module": "Utilizador_Reservas",
+                "type": "Utilizador_Reservas.MyTicketsScreenLogoutText"
               }
             }
           ],
@@ -584,19 +584,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "MyTicketsScreen.MyTicketsScreenGallery.AccessibleLabel"
+                  "fullyQualifiedName": "Utilizador_Reservas.MyTicketsScreenGallery.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "MyTicketsScreen.MyTicketsScreenGallery.AccessibleLabel",
+                  "fullyQualifiedName": "Utilizador_Reservas.MyTicketsScreenGallery.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "MyTicketsScreen",
-                "type": "MyTicketsScreen.MyTicketsScreenGallery"
+                "module": "Utilizador_Reservas",
+                "type": "Utilizador_Reservas.MyTicketsScreenGallery"
               }
             }
           ],
@@ -614,19 +614,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "MyTicketsScreen.MyTicketsScreenGallery.TabIndex"
+                  "fullyQualifiedName": "Utilizador_Reservas.MyTicketsScreenGallery.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "MyTicketsScreen.MyTicketsScreenGallery.TabIndex",
+                  "fullyQualifiedName": "Utilizador_Reservas.MyTicketsScreenGallery.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "MyTicketsScreen",
-                "type": "MyTicketsScreen.MyTicketsScreenGallery"
+                "module": "Utilizador_Reservas",
+                "type": "Utilizador_Reservas.MyTicketsScreenGallery"
               }
             }
           ],
@@ -644,19 +644,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "MyTicketsScreen.MyTicketsScreenGallery.MyTicketsScreenGalleryMask.AccessibleLabel"
+                  "fullyQualifiedName": "Utilizador_Reservas.MyTicketsScreenGallery.MyTicketsScreenGalleryMask.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "MyTicketsScreen.MyTicketsScreenGallery.MyTicketsScreenGalleryMask.AccessibleLabel",
+                  "fullyQualifiedName": "Utilizador_Reservas.MyTicketsScreenGallery.MyTicketsScreenGalleryMask.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "MyTicketsScreen",
-                "type": "MyTicketsScreen.MyTicketsScreenGallery.MyTicketsScreenGalleryMask"
+                "module": "Utilizador_Reservas",
+                "type": "Utilizador_Reservas.MyTicketsScreenGallery.MyTicketsScreenGalleryMask"
               }
             }
           ],
@@ -674,19 +674,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "MyTicketsScreen.MyTicketsScreenGallery.MyTicketsScreenGalleryMask.TabIndex"
+                  "fullyQualifiedName": "Utilizador_Reservas.MyTicketsScreenGallery.MyTicketsScreenGalleryMask.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "MyTicketsScreen.MyTicketsScreenGallery.MyTicketsScreenGalleryMask.TabIndex",
+                  "fullyQualifiedName": "Utilizador_Reservas.MyTicketsScreenGallery.MyTicketsScreenGalleryMask.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "MyTicketsScreen",
-                "type": "MyTicketsScreen.MyTicketsScreenGallery.MyTicketsScreenGalleryMask"
+                "module": "Utilizador_Reservas",
+                "type": "Utilizador_Reservas.MyTicketsScreenGallery.MyTicketsScreenGalleryMask"
               }
             }
           ],

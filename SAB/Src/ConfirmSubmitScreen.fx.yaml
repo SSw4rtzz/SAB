@@ -12,7 +12,7 @@ ConfirmSubmitScreen As screen:
         HoverBorderColor: =Label1.BorderColor
         HoverColor: =Label1.Color
         HoverFill: =Label1.Fill
-        OnSelect: =Navigate(MyTicketsScreen,BorderStyle.None)
+        OnSelect: =Navigate(Utilizador_Reservas,BorderStyle.None)
         PressedBorderColor: =Label1.BorderColor
         PressedColor: =Label1.Color
         PressedFill: =Label1.Fill
@@ -30,7 +30,7 @@ ConfirmSubmitScreen As screen:
         HoverBorderColor: =ConfirmSubmitScreenText.BorderColor
         HoverColor: =ConfirmSubmitScreenText.Color
         HoverFill: =ConfirmSubmitScreenText.Fill
-        OnSelect: =Navigate(MyTicketsScreen,BorderStyle.None)
+        OnSelect: =Navigate(Utilizador_Reservas,BorderStyle.None)
         PaddingBottom: =0
         PaddingLeft: =0
         PaddingRight: =0
@@ -56,7 +56,7 @@ ConfirmSubmitScreen As screen:
         FocusedBorderThickness: =5
         Height: =122
         HoverFill: =ConfirmSubmitScreenCircle.Fill
-        OnSelect: =Navigate(MyTicketsScreen,BorderStyle.None)
+        OnSelect: =Navigate(Utilizador_Reservas,BorderStyle.None)
         PressedFill: =ConfirmSubmitScreenCircle.Fill
         Width: =122
         X: =252
@@ -75,7 +75,7 @@ ConfirmSubmitScreen As screen:
         HoverColor: =ColorFade(ConfirmSubmitScreenСheckMark.Color, 20%)
         HoverFill: =ConfirmSubmitScreenСheckMark.Fill
         Icon: =Icon.Check
-        OnSelect: =Navigate(MyTicketsScreen,BorderStyle.None)
+        OnSelect: =Navigate(Utilizador_Reservas,BorderStyle.None)
         PressedBorderColor: =ColorFade(ConfirmSubmitScreenСheckMark.BorderColor, -20%)
         PressedColor: =ColorFade(ConfirmSubmitScreenСheckMark.Color, -20%)
         PressedFill: =ConfirmSubmitScreenСheckMark.Fill

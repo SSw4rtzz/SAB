@@ -111,7 +111,7 @@ ConfirmationDeleteScreen As screen:
         HoverFill: =ColorFade(ConfirmationDeleteScreenDeleteButton.Fill, 20%)
         OnSelect: |-
             =Remove(TicketList,LookUp(TicketList,Id =TicketToDelete.Id));
-            Navigate(MyTicketsScreen,ScreenTransition.None)
+            Navigate(Utilizador_Reservas,ScreenTransition.None)
         PaddingBottom: =0
         PaddingLeft: =0
         PaddingRight: =0

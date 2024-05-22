@@ -1,4 +1,4 @@
-MyTicketsScreen As screen:
+Utilizador_Reservas As screen:
     BackgroundImage: =
     Fill: =RGBA(120,144,156,1)
     Height: =Max(App.Height, App.DesignHeight)
@@ -416,7 +416,7 @@ MyTicketsScreen As screen:
             PressedColor: =MyTicketsScreenTitle.Color
             PressedFill: =MyTicketsScreenTitle.Fill
             Size: =27
-            Text: ="My Help Desk Tickets"
+            Text: ="Livros"
             Width: =360
             X: =146
             Y: =30
