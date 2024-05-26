@@ -14,7 +14,7 @@ LoginScreen As screen:
         Height: =1136
         HoverBorderColor: =ColorFade(BackGround.BorderColor, 20%)
         HoverFill: =ColorFade(BackGround.Fill, 20%)
-        Image: ='photo-helpdeskadmin'
+        Image: ='943859966'
         ImagePosition: =ImagePosition.Fill
         PressedBorderColor: =ColorFade(BackGround.BorderColor, -20%)
         PressedFill: =ColorFade(BackGround.Fill, -20%)
@@ -35,15 +35,16 @@ LoginScreen As screen:
 
     LoginAsUser As button:
         BorderColor: =ColorFade(LoginAsUser.Fill, -15%)
+        BorderThickness: =0
         Color: =RGBA(255,255,255,1)
         DisabledBorderColor: =ColorFade(LoginAsUser.BorderColor, 70%)
         DisabledColor: =ColorFade(RGBA(47, 41, 43, 1), 70%)
         DisabledFill: =ColorFade(RGBA(159, 167, 165, 1), 50%)
-        Fill: =RGBA(158, 11, 15, 1)
+        Fill: =RGBA(211, 120, 67, 1)
         FocusedBorderColor: =LoginAsUser.BorderColor
         Height: =89
         HoverBorderColor: |-
-            =ColorValue("#e0454a")
+            =ColorValue("#d37843")
         HoverColor: =LoginAsUser.Color
         HoverFill: =ColorFade(LoginAsUser.Fill, 20%)
         OnSelect: |-
@@ -52,12 +53,12 @@ LoginScreen As screen:
         PressedBorderColor: =LoginAsUser.Fill
         PressedColor: =LoginAsUser.Fill
         PressedFill: =LoginAsUser.Color
-        RadiusBottomLeft: =44.5
-        RadiusBottomRight: =44.5
-        RadiusTopLeft: =44.5
-        RadiusTopRight: =44.5
+        RadiusBottomLeft: =20
+        RadiusBottomRight: =20
+        RadiusTopLeft: =20
+        RadiusTopRight: =20
         Size: =18
-        Text: ="Login as a Help Desk User"
+        Text: ="Entrar"
         Width: =485
         X: =77
         Y: =424
@@ -69,7 +70,7 @@ LoginScreen As screen:
         DisabledBorderColor: =ColorFade(LoginAsAdmin.BorderColor, 70%)
         DisabledColor: =ColorFade(RGBA(47, 41, 43, 1), 70%)
         DisabledFill: =ColorFade(RGBA(159, 167, 165, 1), 50%)
-        Fill: =RGBA(224, 69, 74, 1)
+        Fill: =RGBA(171, 101, 60, 0.64)
         FocusedBorderColor: =LoginAsAdmin.BorderColor
         Height: =89
         HoverBorderColor: |-
@@ -83,23 +84,25 @@ LoginScreen As screen:
         PressedBorderColor: =LoginAsAdmin.Fill
         PressedColor: =LoginAsAdmin.Fill
         PressedFill: =LoginAsAdmin.Color
-        RadiusBottomLeft: =44.5
-        RadiusBottomRight: =44.5
-        RadiusTopLeft: =44.5
-        RadiusTopRight: =44.5
+        RadiusBottomLeft: =20
+        RadiusBottomRight: =20
+        RadiusTopLeft: =20
+        RadiusTopRight: =20
         Size: =18
-        Text: ="Login as a Help Desk Admin"
+        Text: ="Criar Conta"
         Width: =485
         X: =77
-        Y: =684
+        Y: =907
         ZIndex: =4
 
     SubmitTicketLabel As label:
+        Align: =Align.Center
         BorderColor: =RGBA(255, 102, 102, 1)
         Color: =RGBA(255, 255, 255, 1)
         DisabledColor: =ColorFade(RGBA(47, 41, 43, 1), 70%)
         FocusedBorderColor: =SubmitTicketLabel.BorderColor
-        Height: =19
+        Font: =Font.'Dancing Script'
+        Height: =251
         HoverBorderColor: =SubmitTicketLabel.BorderColor
         HoverColor: =SubmitTicketLabel.Color
         HoverFill: =SubmitTicketLabel.Fill
@@ -110,35 +113,12 @@ LoginScreen As screen:
         PressedBorderColor: =SubmitTicketLabel.BorderColor
         PressedColor: =SubmitTicketLabel.Color
         PressedFill: =SubmitTicketLabel.Fill
-        Size: =18
-        Text: ="TO SUBMIT A HELP DESK TICKET"
-        Width: =360
-        X: =140
-        Y: =364
+        Size: =90
+        Text: ="SAB"
+        Width: =372
+        X: =134
+        Y: =92
         ZIndex: =5
-
-    UpdateTicketLabel As label:
-        BorderColor: =RGBA(255, 102, 102, 1)
-        Color: =RGBA(255, 255, 255, 1)
-        DisabledColor: =ColorFade(RGBA(47, 41, 43, 1), 70%)
-        FocusedBorderColor: =UpdateTicketLabel.BorderColor
-        Height: =19
-        HoverBorderColor: =UpdateTicketLabel.BorderColor
-        HoverColor: =UpdateTicketLabel.Color
-        HoverFill: =UpdateTicketLabel.Fill
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        PressedBorderColor: =UpdateTicketLabel.BorderColor
-        PressedColor: =UpdateTicketLabel.Color
-        PressedFill: =UpdateTicketLabel.Fill
-        Size: =18
-        Text: ="TO ASSIGN OR UPDATE TICKETS"
-        Width: =370
-        X: =142
-        Y: =625
-        ZIndex: =6
 
     LoginScreenAccessDeniedText As label:
         Align: =LayoutAlignItems.Center

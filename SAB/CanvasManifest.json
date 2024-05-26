@@ -95,7 +95,7 @@
       "zeroalltabindexes": false
     },
     "Author": "",
-    "BindingErrorCount": 56,
+    "BindingErrorCount": 0,
     "ContainsThirdPartyPcfControls": false,
     "DefaultConnectedDataSourceMaxGetRowsCount": 500,
     "DocumentAppType": "Phone",
@@ -130,12 +130,8 @@
   },
   "ScreenOrder": [
     "LoginScreen",
-    "ConfirmSubmitScreen",
-    "ConfirmationDeleteScreen",
     "Utilizador_Reservas",
     "Utilizador_InfoLivro",
-    "CreateTicketScreen",
-    "EditTicketScreen",
     "Collection and Variables",
     "Setup"
   ]
