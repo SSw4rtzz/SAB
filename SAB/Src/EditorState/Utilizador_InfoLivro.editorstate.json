@@ -13,7 +13,14 @@
         },
         "BorderColor",
         "DisabledBorderColor",
-        "PressedBorderColor",
+        {
+          "AFDDataSourceName": "",
+          "AutoRuleBindingEnabled": false,
+          "AutoRuleBindingString": "Self.Fill",
+          "InvariantPropertyName": "PressedBorderColor",
+          "IsLockable": false,
+          "NameMapSourceSchema": "?"
+        },
         {
           "AFDDataSourceName": "",
           "AutoRuleBindingEnabled": false,
@@ -2034,7 +2041,7 @@
       "MetaDataIDKey": "",
       "Name": "InfoUtilizador_InfoLivro",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 29,
+      "ParentIndex": 26,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2086,7 +2093,7 @@
       "MetaDataIDKey": "",
       "Name": "lb_InfoLivro",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 26,
+      "ParentIndex": 28,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -5496,7 +5503,7 @@
       "MetaDataIDKey": "",
       "Name": "Linhas_InfoLivro",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 27,
+      "ParentIndex": 29,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -6712,7 +6719,7 @@
       "MetaDataIDKey": "",
       "Name": "Titulo-lb_InfoLivro",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 25,
+      "ParentIndex": 27,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -7157,7 +7164,7 @@
       "MetaDataIDKey": "",
       "Name": "Voltar_InfoLivro",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 28,
+      "ParentIndex": 25,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {

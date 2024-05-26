@@ -56,6 +56,7 @@ Utilizador_InfoLivro As screen:
         HoverBorderColor: =ColorFade(Self.BorderColor, 0%)
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =
+        PressedBorderColor: =
         RadiusBottomLeft: =30
         RadiusBottomRight: =30
         RadiusTopLeft: =30
@@ -76,8 +77,8 @@ Utilizador_InfoLivro As screen:
         Height: =70
         Size: =28
         Text: ="Lorem Ipsum"
-        Width: =523
-        X: =60
+        Width: =603
+        X: =20
         Y: =434
         ZIndex: =24
 
@@ -87,11 +88,11 @@ Utilizador_InfoLivro As screen:
         Color: =RGBA(255, 255, 255, 0.61)
         DisabledColor: =RGBA(166, 166, 166, 1)
         FontWeight: =FontWeight.Lighter
-        Height: =44
+        Height: =37
         Size: =10
         Text: ="Consectetur Adipiscing Elit"
-        Width: =294
-        X: =181
+        Width: =603
+        X: =20
         Y: =490
         ZIndex: =25
 
