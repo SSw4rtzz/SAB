@@ -5464,19 +5464,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Utilizador_InfoLivro.Button1.TabIndex"
+                  "fullyQualifiedName": "Utilizador_InfoLivro.backgroundUtilizador.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Utilizador_InfoLivro.Button1.TabIndex",
+                  "fullyQualifiedName": "Utilizador_InfoLivro.backgroundUtilizador.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
                 "module": "Utilizador_InfoLivro",
-                "type": "Utilizador_InfoLivro.Button1"
+                "type": "Utilizador_InfoLivro.backgroundUtilizador"
               }
             }
           ],
@@ -5494,19 +5494,49 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Utilizador_InfoLivro.IcoUtilizador_1.AccessibleLabel"
+                  "fullyQualifiedName": "Utilizador_InfoLivro.backgroundVoltar.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Utilizador_InfoLivro.IcoUtilizador_1.AccessibleLabel",
+                  "fullyQualifiedName": "Utilizador_InfoLivro.backgroundVoltar.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "Utilizador_InfoLivro",
+                "type": "Utilizador_InfoLivro.backgroundVoltar"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 10
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Utilizador_InfoLivro.icoUtilizador_1.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Utilizador_InfoLivro.icoUtilizador_1.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
                 "module": "Utilizador_InfoLivro",
-                "type": "Utilizador_InfoLivro.IcoUtilizador_1"
+                "type": "Utilizador_InfoLivro.icoUtilizador_1"
               }
             }
           ],
@@ -5524,19 +5554,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Utilizador_InfoLivro.IcoUtilizador_1.TabIndex"
+                  "fullyQualifiedName": "Utilizador_InfoLivro.icoUtilizador_1.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Utilizador_InfoLivro.IcoUtilizador_1.TabIndex",
+                  "fullyQualifiedName": "Utilizador_InfoLivro.icoUtilizador_1.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
                 "module": "Utilizador_InfoLivro",
-                "type": "Utilizador_InfoLivro.IcoUtilizador_1"
+                "type": "Utilizador_InfoLivro.icoUtilizador_1"
               }
             }
           ],
@@ -5674,6 +5704,36 @@
             {
               "logicalLocations": [
                 {
+                  "fullyQualifiedName": "Utilizador_InfoLivro.backgroundTituloImagem.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Utilizador_InfoLivro.backgroundTituloImagem.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "Utilizador_InfoLivro",
+                "type": "Utilizador_InfoLivro.backgroundTituloImagem"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 10
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
                   "fullyQualifiedName": "App.NewTicketID"
                 }
               ],
@@ -5698,6 +5758,36 @@
           },
           "ruleId": "app-UnusedVariables",
           "ruleIndex": 12
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "App.556694153"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "App.556694153",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "556694153",
+                "module": "App",
+                "type": "App"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "app-UnusedMediaResources",
+          "ruleIndex": 13
         }
       ],
       "tool": {
@@ -5910,6 +6000,23 @@
                 "level": "Medium",
                 "primaryCategory": "performance",
                 "whyFix": "Esta variável está declarada, mas não está referenciada por qualquer controlo e, portanto, não é necessária."
+              }
+            },
+            {
+              "id": "app-UnusedMediaResources",
+              "messageStrings": {
+                "issue": {
+                  "text": "Ficheiros de multimédia não utilizados"
+                }
+              },
+              "properties": {
+                "componentType": "app",
+                "howToFix": [
+                  "Remova o ficheiro de multimédia não utilizado no Painel de multimédia."
+                ],
+                "level": "Medium",
+                "primaryCategory": "performance",
+                "whyFix": "Este ficheiro de multimédia não é mencionado por quaisquer fórmulas de controlo, pelo que não é necessário. Remova-o para melhorar o desempenho."
               }
             }
           ],
