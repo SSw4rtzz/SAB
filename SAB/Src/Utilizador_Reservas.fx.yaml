@@ -92,7 +92,7 @@ Utilizador_Reservas As screen:
             Height: =70
             HoverBorderColor: =ColorFade(RGBA(211,120,67, 1), 0%)
             HoverColor: =RGBA(255, 255, 255, 1)
-            HoverFill: =ColorFade(RGBA(211,120,67, 1), -20%)
+            HoverFill: =ColorFade(RGBA(211,120,67, 1), 0%)
             LayoutMinHeight: =70
             LayoutMinWidth: =280
             Size: =24
