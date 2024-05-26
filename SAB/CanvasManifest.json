@@ -7,7 +7,7 @@
   },
   "Properties": {
     "AppCreationSource": "SampleApp",
-    "AppDescription": "",
+    "AppDescription": "Sistema de apoio a bibliotecas",
     "AppPreviewFlagsMap": {
       "aibuilderserviceenrollment": false,
       "allowmultiplescreensincanvaspages": false,
@@ -119,10 +119,10 @@
   },
   "PublishInfo": {
     "AppName": "026974b3-b7d7-492b-8642-3ea93c65730b",
-    "BackgroundColor": "RGBA(0,176,240,1)",
+    "BackgroundColor": "rgba(0, 0, 0, 1)",
     "IconColor": "RGBA(255,255,255,1)",
-    "IconName": "Edit",
-    "LogoFileName": "",
+    "IconName": "Library",
+    "LogoFileName": "logo.jpg",
     "PublishDataLocally": false,
     "PublishResourcesLocally": false,
     "PublishTarget": "player",
