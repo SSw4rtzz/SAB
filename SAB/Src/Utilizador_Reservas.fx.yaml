@@ -84,6 +84,7 @@ Utilizador_Reservas As screen:
             ZIndex: =1
 
         btnReservas As button:
+            AutoDisableOnSelect: =false
             DisabledBorderColor: =RGBA(166, 166, 166, 1)
             DisabledColor: =RGBA(166, 166, 166, 1)
             DisabledFill: =RGBA(244, 244, 244, 1)
