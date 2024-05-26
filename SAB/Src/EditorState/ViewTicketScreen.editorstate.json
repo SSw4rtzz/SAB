@@ -404,7 +404,7 @@
       "MetaDataIDKey": "",
       "Name": "ViewTicketCompletedGroup",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 36,
+      "ParentIndex": 37,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -10587,7 +10587,7 @@
       "MetaDataIDKey": "",
       "Name": "ViewTicketScreenTitleHeader",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 37,
+      "ParentIndex": 36,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {

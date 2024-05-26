@@ -14,2190 +14,6 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "EditTicketScreen.OnVisible"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.OnVisible",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 14,
-                  "charOffset": 70,
-                  "snippet": {
-                    "text": "SelectedTicket"
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnVisible",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "SelectedTicket"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.OnVisible"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.OnVisible",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 11,
-                  "charOffset": 84,
-                  "snippet": {
-                    "text": ".AssignedTO"
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnVisible",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidDot",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.OnVisible"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.OnVisible",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 97,
-                  "charOffset": 0,
-                  "snippet": {
-                    "text": "UpdateContext({ShowAssignedToGallery:false; AssignedToUserDisplayName:SelectedTicket.AssignedTO})"
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnVisible",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrIncompatibleCtxtVariableTypes",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerNumber.Text"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerNumber.Text",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 14,
-                  "charOffset": 0,
-                  "snippet": {
-                    "text": "SelectedTicket"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Text",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerNumber"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "SelectedTicket"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerNumber.Text"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerNumber.Text",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 3,
-                  "charOffset": 14,
-                  "snippet": {
-                    "text": ".Id"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Text",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerNumber"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidDot",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTitle.Text"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTitle.Text",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 14,
-                  "charOffset": 0,
-                  "snippet": {
-                    "text": "SelectedTicket"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Text",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTitle"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "SelectedTicket"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTitle.Text"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTitle.Text",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 6,
-                  "charOffset": 14,
-                  "snippet": {
-                    "text": ".Title"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Text",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTitle"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidDot",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreated.Text"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreated.Text",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 14,
-                  "charOffset": 5,
-                  "snippet": {
-                    "text": "SelectedTicket"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Text",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreated"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "SelectedTicket"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreated.Text"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreated.Text",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 8,
-                  "charOffset": 19,
-                  "snippet": {
-                    "text": ".Created"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Text",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreated"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidDot",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreated.Text"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreated.Text",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 4,
-                  "charOffset": 0,
-                  "snippet": {
-                    "text": "Text"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Text",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreated"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Text"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 3
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreated.Text"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreated.Text",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 10,
-                  "charOffset": 42,
-                  "snippet": {
-                    "text": ".ShortDate"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Text",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreated"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Text"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "app-ErrIncorrectFormat-Func",
-          "ruleIndex": 4
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreatedBy.Text"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreatedBy.Text",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 14,
-                  "charOffset": 58,
-                  "snippet": {
-                    "text": "SelectedTicket"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Text",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreatedBy"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "SelectedTicket"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreatedBy.Text"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreatedBy.Text",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 7,
-                  "charOffset": 72,
-                  "snippet": {
-                    "text": ".Author"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Text",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreatedBy"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidDot",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreatedBy.Text"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreatedBy.Text",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 4,
-                  "charOffset": 53,
-                  "snippet": {
-                    "text": "Text"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Text",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreatedBy"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Text"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 3
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreatedBy.Text"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreatedBy.Text",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 14,
-                  "charOffset": 97,
-                  "snippet": {
-                    "text": "SelectedTicket"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Text",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreatedBy"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "SelectedTicket"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreatedBy.Text"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreatedBy.Text",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 7,
-                  "charOffset": 111,
-                  "snippet": {
-                    "text": ".Author"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Text",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreatedBy"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidDot",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreatedBy.Text"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreatedBy.Text",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 8,
-                  "charOffset": 0,
-                  "snippet": {
-                    "text": "Coalesce"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Text",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreatedBy"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Coalesce"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 3
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModified.Text"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModified.Text",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 14,
-                  "charOffset": 5,
-                  "snippet": {
-                    "text": "SelectedTicket"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Text",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModified"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "SelectedTicket"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModified.Text"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModified.Text",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 9,
-                  "charOffset": 19,
-                  "snippet": {
-                    "text": ".Modified"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Text",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModified"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidDot",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModified.Text"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModified.Text",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 4,
-                  "charOffset": 0,
-                  "snippet": {
-                    "text": "Text"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Text",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModified"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Text"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 3
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModified.Text"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModified.Text",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 10,
-                  "charOffset": 43,
-                  "snippet": {
-                    "text": ".ShortDate"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Text",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModified"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Text"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "app-ErrIncorrectFormat-Func",
-          "ruleIndex": 4
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModifiedBy.Text"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModifiedBy.Text",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 14,
-                  "charOffset": 58,
-                  "snippet": {
-                    "text": "SelectedTicket"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Text",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModifiedBy"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "SelectedTicket"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModifiedBy.Text"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModifiedBy.Text",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 7,
-                  "charOffset": 72,
-                  "snippet": {
-                    "text": ".Editor"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Text",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModifiedBy"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidDot",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModifiedBy.Text"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModifiedBy.Text",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 4,
-                  "charOffset": 53,
-                  "snippet": {
-                    "text": "Text"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Text",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModifiedBy"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Text"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 3
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModifiedBy.Text"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModifiedBy.Text",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 14,
-                  "charOffset": 97,
-                  "snippet": {
-                    "text": "SelectedTicket"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Text",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModifiedBy"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "SelectedTicket"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModifiedBy.Text"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModifiedBy.Text",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 7,
-                  "charOffset": 111,
-                  "snippet": {
-                    "text": ".Editor"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Text",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModifiedBy"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidDot",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModifiedBy.Text"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModifiedBy.Text",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 8,
-                  "charOffset": 0,
-                  "snippet": {
-                    "text": "Coalesce"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Text",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModifiedBy"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Coalesce"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 3
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenStatusDropdown.Default"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenStatusDropdown.Default",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 14,
-                  "charOffset": 0,
-                  "snippet": {
-                    "text": "SelectedTicket"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Default",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenStatusDropdown"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "SelectedTicket"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenStatusDropdown.Default"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenStatusDropdown.Default",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 11,
-                  "charOffset": 14,
-                  "snippet": {
-                    "text": ".TaskStatus"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Default",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenStatusDropdown"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidDot",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenCompletedSlider.Default"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenCompletedSlider.Default",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 14,
-                  "charOffset": 0,
-                  "snippet": {
-                    "text": "SelectedTicket"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Default",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenCompletedSlider"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "SelectedTicket"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenCompletedSlider.Default"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenCompletedSlider.Default",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 16,
-                  "charOffset": 14,
-                  "snippet": {
-                    "text": ".PercentComplete"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Default",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenCompletedSlider"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidDot",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenAssignedToDisplayLabel.Text"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenAssignedToDisplayLabel.Text",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 25,
-                  "charOffset": 0,
-                  "snippet": {
-                    "text": "AssignedToUserDisplayName"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Text",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenAssignedToDisplayLabel"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Text",
-              "Error"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrIncompatibleRulePropTypes-PropKind-RuleKind",
-          "ruleIndex": 5
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenAssignedToSearchInput.Default"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenAssignedToSearchInput.Default",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 25,
-                  "charOffset": 0,
-                  "snippet": {
-                    "text": "AssignedToUserDisplayName"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Default",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenAssignedToSearchInput"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Text",
-              "Error"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrIncompatibleRulePropTypes-PropKind-RuleKind",
-          "ruleIndex": 5
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenAssignedToSearchGallery.galleryTemplate1_1.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenAssignedToSearchGallery.galleryTemplate1_1.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 125,
-                  "charOffset": 0,
-                  "snippet": {
-                    "text": "UpdateContext({ShowAssignedToGallery:false; AssignedToUserDisplayName:ThisItem.DisplayName;AssignedToUserMail:ThisItem.Mail})"
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenAssignedToSearchGallery.galleryTemplate1_1"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrIncompatibleCtxtVariableTypes",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenDescriptionInput.Default"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenDescriptionInput.Default",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 14,
-                  "charOffset": 11,
-                  "snippet": {
-                    "text": "SelectedTicket"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Default",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenDescriptionInput"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "SelectedTicket"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenDescriptionInput.Default"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenDescriptionInput.Default",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 12,
-                  "charOffset": 25,
-                  "snippet": {
-                    "text": ".Description"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Default",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenDescriptionInput"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidDot",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenDescriptionInput.Default"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenDescriptionInput.Default",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 9,
-                  "charOffset": 1,
-                  "snippet": {
-                    "text": "PlainText"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Default",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenDescriptionInput"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "PlainText"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 3
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenCategoryDropDown.Default"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenCategoryDropDown.Default",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 14,
-                  "charOffset": 0,
-                  "snippet": {
-                    "text": "SelectedTicket"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Default",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenCategoryDropDown"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "SelectedTicket"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenCategoryDropDown.Default"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenCategoryDropDown.Default",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 9,
-                  "charOffset": 14,
-                  "snippet": {
-                    "text": ".Category"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Default",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenCategoryDropDown"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidDot",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenPriorityDropDown.Default"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenPriorityDropDown.Default",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 14,
-                  "charOffset": 0,
-                  "snippet": {
-                    "text": "SelectedTicket"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Default",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenPriorityDropDown"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "SelectedTicket"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenPriorityDropDown.Default"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenPriorityDropDown.Default",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 9,
-                  "charOffset": 14,
-                  "snippet": {
-                    "text": ".Priority"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Default",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenPriorityDropDown"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidDot",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.DisplayMode"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.DisplayMode",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 7,
-                  "charOffset": 18,
-                  "snippet": {
-                    "text": "IsBlank"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DisplayMode",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "IsBlank"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 3
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.DisplayMode"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.DisplayMode",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 25,
-                  "charOffset": 26,
-                  "snippet": {
-                    "text": "AssignedToUserDisplayName"
-                  }
-                }
-              },
-              "properties": {
-                "member": "DisplayMode",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrBadType",
-          "ruleIndex": 6
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 14,
-                  "charOffset": 55,
-                  "snippet": {
-                    "text": "SelectedTicket"
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "SelectedTicket"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 3,
-                  "charOffset": 69,
-                  "snippet": {
-                    "text": ".Id"
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidDot",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 1,
-                  "charOffset": 54,
-                  "snippet": {
-                    "text": "="
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Number",
-              "Error"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrIncompatibleTypesForEquality-Left-Right",
-          "ruleIndex": 7
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 5,
-                  "charOffset": 17,
-                  "snippet": {
-                    "text": "Patch"
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Patch"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 3
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 418,
-                  "charOffset": 74,
-                  "snippet": {
-                    "text": "{\n    \n    Priority:EditTicketScreenPriorityDropDown.SelectedText.Value;\n    Category:EditTicketScreenCategoryDropDown.SelectedText.Value;\n    TaskStatus:EditTicketScreenStatusDropdown.SelectedText.Value;  \n    PercentComplete:EditTicketScreenCompletedSlider.Value/100;\n    AssignedTO:AssignedToUserDisplayName;\n    Editor:MyProfile.Mail;\n    Modified:Now();\n    Description:EditTicketScreenDescriptionInput.Text\n    }"
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "AssignedTO",
-              "Text",
-              "Error"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrTypeError-Arg-Expected-Found",
-          "ruleIndex": 8
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 14,
-                  "charOffset": 539,
-                  "snippet": {
-                    "text": "SelectedTicket"
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "SelectedTicket"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 3,
-                  "charOffset": 553,
-                  "snippet": {
-                    "text": ".Id"
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidDot",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 1,
-                  "charOffset": 537,
-                  "snippet": {
-                    "text": "="
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "EditTicketScreen",
-                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Number",
-              "Error"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrIncompatibleTypesForEquality-Left-Right",
-          "ruleIndex": 7
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "ConfirmationDeleteScreen.ConfirmationDeleteScreenTicketTitle.Text"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "ConfirmationDeleteScreen.ConfirmationDeleteScreenTicketTitle.Text",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 14,
-                  "charOffset": 0,
-                  "snippet": {
-                    "text": "TicketToDelete"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Text",
-                "module": "ConfirmationDeleteScreen",
-                "type": "ConfirmationDeleteScreen.ConfirmationDeleteScreenTicketTitle"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "TicketToDelete"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "ConfirmationDeleteScreen.ConfirmationDeleteScreenTicketTitle.Text"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "ConfirmationDeleteScreen.ConfirmationDeleteScreenTicketTitle.Text",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 6,
-                  "charOffset": 14,
-                  "snippet": {
-                    "text": ".Title"
-                  }
-                }
-              },
-              "properties": {
-                "member": "Text",
-                "module": "ConfirmationDeleteScreen",
-                "type": "ConfirmationDeleteScreen.ConfirmationDeleteScreenTicketTitle"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidDot",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "ConfirmationDeleteScreen.ConfirmationDeleteScreenDeleteButton.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "ConfirmationDeleteScreen.ConfirmationDeleteScreenDeleteButton.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 14,
-                  "charOffset": 40,
-                  "snippet": {
-                    "text": "TicketToDelete"
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "ConfirmationDeleteScreen",
-                "type": "ConfirmationDeleteScreen.ConfirmationDeleteScreenDeleteButton"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "TicketToDelete"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "ConfirmationDeleteScreen.ConfirmationDeleteScreenDeleteButton.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "ConfirmationDeleteScreen.ConfirmationDeleteScreenDeleteButton.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 3,
-                  "charOffset": 54,
-                  "snippet": {
-                    "text": ".Id"
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "ConfirmationDeleteScreen",
-                "type": "ConfirmationDeleteScreen.ConfirmationDeleteScreenDeleteButton"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidDot",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "ConfirmationDeleteScreen.ConfirmationDeleteScreenDeleteButton.OnSelect"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "ConfirmationDeleteScreen.ConfirmationDeleteScreenDeleteButton.OnSelect",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 1,
-                  "charOffset": 39,
-                  "snippet": {
-                    "text": "="
-                  }
-                }
-              },
-              "properties": {
-                "member": "OnSelect",
-                "module": "ConfirmationDeleteScreen",
-                "type": "ConfirmationDeleteScreen.ConfirmationDeleteScreenDeleteButton"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Number",
-              "Error"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrIncompatibleTypesForEquality-Left-Right",
-          "ruleIndex": 7
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
                   "fullyQualifiedName": "ViewTicketScreen.ViewTicketScreenCanvas.ViewTicketScreenDataCard.ViewTicketScreenStatus.Text"
                 }
               ],
@@ -2616,7 +432,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 3
+          "ruleIndex": 2
         },
         {
           "locations": [
@@ -2656,7 +472,7 @@
             "level": "Medium"
           },
           "ruleId": "app-ErrIncorrectFormat-Func",
-          "ruleIndex": 4
+          "ruleIndex": 3
         },
         {
           "locations": [
@@ -2773,7 +589,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 3
+          "ruleIndex": 2
         },
         {
           "locations": [
@@ -2890,7 +706,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 3
+          "ruleIndex": 2
         },
         {
           "locations": [
@@ -3007,7 +823,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 3
+          "ruleIndex": 2
         },
         {
           "locations": [
@@ -3047,7 +863,7 @@
             "level": "Medium"
           },
           "ruleId": "app-ErrIncorrectFormat-Func",
-          "ruleIndex": 4
+          "ruleIndex": 3
         },
         {
           "locations": [
@@ -3164,7 +980,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 3
+          "ruleIndex": 2
         },
         {
           "locations": [
@@ -3281,7 +1097,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 3
+          "ruleIndex": 2
         },
         {
           "locations": [
@@ -3629,7 +1445,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 3
+          "ruleIndex": 2
         },
         {
           "locations": [
@@ -3746,7 +1562,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrInvalidArgs-Func",
-          "ruleIndex": 3
+          "ruleIndex": 2
         },
         {
           "locations": [
@@ -4017,7 +1833,2641 @@
             "level": "High"
           },
           "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.OnVisible"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.OnVisible",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 14,
+                  "charOffset": 70,
+                  "snippet": {
+                    "text": "SelectedTicket"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnVisible",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "SelectedTicket"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.OnVisible"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.OnVisible",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 11,
+                  "charOffset": 84,
+                  "snippet": {
+                    "text": ".AssignedTO"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnVisible",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.OnVisible"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.OnVisible",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 97,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "UpdateContext({ShowAssignedToGallery:false; AssignedToUserDisplayName:SelectedTicket.AssignedTO})"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnVisible",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrIncompatibleCtxtVariableTypes",
+          "ruleIndex": 4
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerNumber.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerNumber.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 14,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "SelectedTicket"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerNumber"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "SelectedTicket"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerNumber.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerNumber.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 3,
+                  "charOffset": 14,
+                  "snippet": {
+                    "text": ".Id"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerNumber"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTitle.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTitle.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 14,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "SelectedTicket"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTitle"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "SelectedTicket"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTitle.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTitle.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 6,
+                  "charOffset": 14,
+                  "snippet": {
+                    "text": ".Title"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTitle"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreated.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreated.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 14,
+                  "charOffset": 5,
+                  "snippet": {
+                    "text": "SelectedTicket"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreated"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "SelectedTicket"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreated.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreated.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 8,
+                  "charOffset": 19,
+                  "snippet": {
+                    "text": ".Created"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreated"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreated.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreated.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 4,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "Text"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreated"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Text"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreated.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreated.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 10,
+                  "charOffset": 42,
+                  "snippet": {
+                    "text": ".ShortDate"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreated"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Text"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "app-ErrIncorrectFormat-Func",
           "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreatedBy.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreatedBy.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 14,
+                  "charOffset": 58,
+                  "snippet": {
+                    "text": "SelectedTicket"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreatedBy"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "SelectedTicket"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreatedBy.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreatedBy.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 7,
+                  "charOffset": 72,
+                  "snippet": {
+                    "text": ".Author"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreatedBy"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreatedBy.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreatedBy.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 4,
+                  "charOffset": 53,
+                  "snippet": {
+                    "text": "Text"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreatedBy"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Text"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreatedBy.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreatedBy.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 14,
+                  "charOffset": 97,
+                  "snippet": {
+                    "text": "SelectedTicket"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreatedBy"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "SelectedTicket"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreatedBy.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreatedBy.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 7,
+                  "charOffset": 111,
+                  "snippet": {
+                    "text": ".Author"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreatedBy"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreatedBy.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreatedBy.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 8,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "Coalesce"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerCreatedBy"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Coalesce"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModified.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModified.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 14,
+                  "charOffset": 5,
+                  "snippet": {
+                    "text": "SelectedTicket"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModified"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "SelectedTicket"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModified.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModified.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 9,
+                  "charOffset": 19,
+                  "snippet": {
+                    "text": ".Modified"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModified"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModified.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModified.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 4,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "Text"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModified"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Text"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModified.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModified.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 10,
+                  "charOffset": 43,
+                  "snippet": {
+                    "text": ".ShortDate"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModified"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Text"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "app-ErrIncorrectFormat-Func",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModifiedBy.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModifiedBy.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 14,
+                  "charOffset": 58,
+                  "snippet": {
+                    "text": "SelectedTicket"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModifiedBy"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "SelectedTicket"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModifiedBy.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModifiedBy.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 7,
+                  "charOffset": 72,
+                  "snippet": {
+                    "text": ".Editor"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModifiedBy"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModifiedBy.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModifiedBy.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 4,
+                  "charOffset": 53,
+                  "snippet": {
+                    "text": "Text"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModifiedBy"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Text"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModifiedBy.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModifiedBy.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 14,
+                  "charOffset": 97,
+                  "snippet": {
+                    "text": "SelectedTicket"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModifiedBy"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "SelectedTicket"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModifiedBy.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModifiedBy.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 7,
+                  "charOffset": 111,
+                  "snippet": {
+                    "text": ".Editor"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModifiedBy"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModifiedBy.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModifiedBy.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 8,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "Coalesce"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenHeaderTickerModifiedBy"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Coalesce"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenStatusDropdown.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenStatusDropdown.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 14,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "SelectedTicket"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenStatusDropdown"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "SelectedTicket"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenStatusDropdown.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenStatusDropdown.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 11,
+                  "charOffset": 14,
+                  "snippet": {
+                    "text": ".TaskStatus"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenStatusDropdown"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenCompletedSlider.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenCompletedSlider.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 14,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "SelectedTicket"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenCompletedSlider"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "SelectedTicket"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenCompletedSlider.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenCompletedSlider.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 16,
+                  "charOffset": 14,
+                  "snippet": {
+                    "text": ".PercentComplete"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenCompletedSlider"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenAssignedToDisplayLabel.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenAssignedToDisplayLabel.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 25,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "AssignedToUserDisplayName"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenAssignedToDisplayLabel"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Text",
+              "Error"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrIncompatibleRulePropTypes-PropKind-RuleKind",
+          "ruleIndex": 5
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenAssignedToSearchInput.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenAssignedToSearchInput.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 25,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "AssignedToUserDisplayName"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenAssignedToSearchInput"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Text",
+              "Error"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrIncompatibleRulePropTypes-PropKind-RuleKind",
+          "ruleIndex": 5
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenAssignedToSearchGallery.galleryTemplate1_1.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenAssignedToSearchGallery.galleryTemplate1_1.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 125,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "UpdateContext({ShowAssignedToGallery:false; AssignedToUserDisplayName:ThisItem.DisplayName;AssignedToUserMail:ThisItem.Mail})"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenAssignedToSearchGallery.galleryTemplate1_1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrIncompatibleCtxtVariableTypes",
+          "ruleIndex": 4
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenDescriptionInput.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenDescriptionInput.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 14,
+                  "charOffset": 11,
+                  "snippet": {
+                    "text": "SelectedTicket"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenDescriptionInput"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "SelectedTicket"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenDescriptionInput.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenDescriptionInput.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 12,
+                  "charOffset": 25,
+                  "snippet": {
+                    "text": ".Description"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenDescriptionInput"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenDescriptionInput.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenDescriptionInput.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 9,
+                  "charOffset": 1,
+                  "snippet": {
+                    "text": "PlainText"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenDescriptionInput"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "PlainText"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenCategoryDropDown.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenCategoryDropDown.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 14,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "SelectedTicket"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenCategoryDropDown"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "SelectedTicket"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenCategoryDropDown.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenCategoryDropDown.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 9,
+                  "charOffset": 14,
+                  "snippet": {
+                    "text": ".Category"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenCategoryDropDown"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenPriorityDropDown.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenPriorityDropDown.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 14,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "SelectedTicket"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenPriorityDropDown"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "SelectedTicket"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenPriorityDropDown.Default"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenPriorityDropDown.Default",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 9,
+                  "charOffset": 14,
+                  "snippet": {
+                    "text": ".Priority"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Default",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenPriorityDropDown"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.DisplayMode"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.DisplayMode",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 7,
+                  "charOffset": 18,
+                  "snippet": {
+                    "text": "IsBlank"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayMode",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "IsBlank"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.DisplayMode"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.DisplayMode",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 25,
+                  "charOffset": 26,
+                  "snippet": {
+                    "text": "AssignedToUserDisplayName"
+                  }
+                }
+              },
+              "properties": {
+                "member": "DisplayMode",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrBadType",
+          "ruleIndex": 6
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 14,
+                  "charOffset": 55,
+                  "snippet": {
+                    "text": "SelectedTicket"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "SelectedTicket"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 3,
+                  "charOffset": 69,
+                  "snippet": {
+                    "text": ".Id"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 1,
+                  "charOffset": 54,
+                  "snippet": {
+                    "text": "="
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Number",
+              "Error"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrIncompatibleTypesForEquality-Left-Right",
+          "ruleIndex": 7
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 5,
+                  "charOffset": 17,
+                  "snippet": {
+                    "text": "Patch"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Patch"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidArgs-Func",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 418,
+                  "charOffset": 74,
+                  "snippet": {
+                    "text": "{\n    \n    Priority:EditTicketScreenPriorityDropDown.SelectedText.Value;\n    Category:EditTicketScreenCategoryDropDown.SelectedText.Value;\n    TaskStatus:EditTicketScreenStatusDropdown.SelectedText.Value;  \n    PercentComplete:EditTicketScreenCompletedSlider.Value/100;\n    AssignedTO:AssignedToUserDisplayName;\n    Editor:MyProfile.Mail;\n    Modified:Now();\n    Description:EditTicketScreenDescriptionInput.Text\n    }"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "AssignedTO",
+              "Text",
+              "Error"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrTypeError-Arg-Expected-Found",
+          "ruleIndex": 8
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 14,
+                  "charOffset": 539,
+                  "snippet": {
+                    "text": "SelectedTicket"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "SelectedTicket"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 3,
+                  "charOffset": 553,
+                  "snippet": {
+                    "text": ".Id"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 1,
+                  "charOffset": 537,
+                  "snippet": {
+                    "text": "="
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "EditTicketScreen",
+                "type": "EditTicketScreen.EditTicketScreenCanvas.EditTicketScreenDataCard.EditTicketScreenUpdateButton"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Number",
+              "Error"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrIncompatibleTypesForEquality-Left-Right",
+          "ruleIndex": 7
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "ConfirmationDeleteScreen.ConfirmationDeleteScreenTicketTitle.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "ConfirmationDeleteScreen.ConfirmationDeleteScreenTicketTitle.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 14,
+                  "charOffset": 0,
+                  "snippet": {
+                    "text": "TicketToDelete"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "ConfirmationDeleteScreen",
+                "type": "ConfirmationDeleteScreen.ConfirmationDeleteScreenTicketTitle"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "TicketToDelete"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "ConfirmationDeleteScreen.ConfirmationDeleteScreenTicketTitle.Text"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "ConfirmationDeleteScreen.ConfirmationDeleteScreenTicketTitle.Text",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 6,
+                  "charOffset": 14,
+                  "snippet": {
+                    "text": ".Title"
+                  }
+                }
+              },
+              "properties": {
+                "member": "Text",
+                "module": "ConfirmationDeleteScreen",
+                "type": "ConfirmationDeleteScreen.ConfirmationDeleteScreenTicketTitle"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "ConfirmationDeleteScreen.ConfirmationDeleteScreenDeleteButton.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "ConfirmationDeleteScreen.ConfirmationDeleteScreenDeleteButton.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 14,
+                  "charOffset": 40,
+                  "snippet": {
+                    "text": "TicketToDelete"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "ConfirmationDeleteScreen",
+                "type": "ConfirmationDeleteScreen.ConfirmationDeleteScreenDeleteButton"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "TicketToDelete"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "ConfirmationDeleteScreen.ConfirmationDeleteScreenDeleteButton.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "ConfirmationDeleteScreen.ConfirmationDeleteScreenDeleteButton.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 3,
+                  "charOffset": 54,
+                  "snippet": {
+                    "text": ".Id"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "ConfirmationDeleteScreen",
+                "type": "ConfirmationDeleteScreen.ConfirmationDeleteScreenDeleteButton"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidDot",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "ConfirmationDeleteScreen.ConfirmationDeleteScreenDeleteButton.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "ConfirmationDeleteScreen.ConfirmationDeleteScreenDeleteButton.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 1,
+                  "charOffset": 39,
+                  "snippet": {
+                    "text": "="
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "ConfirmationDeleteScreen",
+                "type": "ConfirmationDeleteScreen.ConfirmationDeleteScreenDeleteButton"
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Number",
+              "Error"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrIncompatibleTypesForEquality-Left-Right",
+          "ruleIndex": 7
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "ViewTicketScreen.ViewTicketScreenCanvas.ViewTicketScreenDataCard.ViewTicketScreenBack.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "ViewTicketScreen.ViewTicketScreenCanvas.ViewTicketScreenDataCard.ViewTicketScreenBack.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "ViewTicketScreen",
+                "type": "ViewTicketScreen.ViewTicketScreenCanvas.ViewTicketScreenDataCard.ViewTicketScreenBack"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 9
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "ViewTicketScreen.ViewTicketScreenCanvas.ViewTicketScreenDataCard.ViewTicketScreenBack.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "ViewTicketScreen.ViewTicketScreenCanvas.ViewTicketScreenDataCard.ViewTicketScreenBack.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "ViewTicketScreen",
+                "type": "ViewTicketScreen.ViewTicketScreenCanvas.ViewTicketScreenDataCard.ViewTicketScreenBack"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 10
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "ViewTicketScreen.ViewTicketScreenCanvas.ViewTicketScreenDataCard.ViewTicketScreenBack.FocusedBorderThickness"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "ViewTicketScreen.ViewTicketScreenCanvas.ViewTicketScreenDataCard.ViewTicketScreenBack.FocusedBorderThickness",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "FocusedBorderThickness",
+                "module": "ViewTicketScreen",
+                "type": "ViewTicketScreen.ViewTicketScreenCanvas.ViewTicketScreenDataCard.ViewTicketScreenBack"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-FocusBorderShouldBeVisible",
+          "ruleIndex": 11
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "ViewTicketScreen.ViewTicketScreenCanvas.ViewTicketScreenDataCard.ViewTicketScreenBackground.FocusedBorderThickness"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "ViewTicketScreen.ViewTicketScreenCanvas.ViewTicketScreenDataCard.ViewTicketScreenBackground.FocusedBorderThickness",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "FocusedBorderThickness",
+                "module": "ViewTicketScreen",
+                "type": "ViewTicketScreen.ViewTicketScreenCanvas.ViewTicketScreenDataCard.ViewTicketScreenBackground"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-FocusBorderShouldBeVisible",
+          "ruleIndex": 11
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "ViewTicketScreen.ViewTicketScreenCanvas.ViewTicketScreenDataCard.EditTicketScreenTicketDescription.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "ViewTicketScreen.ViewTicketScreenCanvas.ViewTicketScreenDataCard.EditTicketScreenTicketDescription.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "ViewTicketScreen",
+                "type": "ViewTicketScreen.ViewTicketScreenCanvas.ViewTicketScreenDataCard.EditTicketScreenTicketDescription"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 9
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "ViewTicketScreen.ViewTicketScreenCanvas.ViewTicketScreenDataCard.EditTicketScreenTicketDescription.FocusedBorderThickness"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "ViewTicketScreen.ViewTicketScreenCanvas.ViewTicketScreenDataCard.EditTicketScreenTicketDescription.FocusedBorderThickness",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "FocusedBorderThickness",
+                "module": "ViewTicketScreen",
+                "type": "ViewTicketScreen.ViewTicketScreenCanvas.ViewTicketScreenDataCard.EditTicketScreenTicketDescription"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-FocusBorderShouldBeVisible",
+          "ruleIndex": 11
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CreateTicketScreen.CreateTicketScreenBack.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "CreateTicketScreen.CreateTicketScreenBack.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "CreateTicketScreen",
+                "type": "CreateTicketScreen.CreateTicketScreenBack"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 9
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CreateTicketScreen.CreateTicketScreenBack.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "CreateTicketScreen.CreateTicketScreenBack.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "CreateTicketScreen",
+                "type": "CreateTicketScreen.CreateTicketScreenBack"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 10
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CreateTicketScreen.CreateTicketScreenBack.FocusedBorderThickness"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "CreateTicketScreen.CreateTicketScreenBack.FocusedBorderThickness",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "FocusedBorderThickness",
+                "module": "CreateTicketScreen",
+                "type": "CreateTicketScreen.CreateTicketScreenBack"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-FocusBorderShouldBeVisible",
+          "ruleIndex": 11
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CreateTicketScreen.CreateTicketScreenTitleText.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "CreateTicketScreen.CreateTicketScreenTitleText.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "CreateTicketScreen",
+                "type": "CreateTicketScreen.CreateTicketScreenTitleText"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 9
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CreateTicketScreen.CreateTicketScreenCategoryDropDown.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "CreateTicketScreen.CreateTicketScreenCategoryDropDown.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "CreateTicketScreen",
+                "type": "CreateTicketScreen.CreateTicketScreenCategoryDropDown"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 9
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CreateTicketScreen.CreateTicketScreenCategoryDropDown.FocusedBorderThickness"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "CreateTicketScreen.CreateTicketScreenCategoryDropDown.FocusedBorderThickness",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "FocusedBorderThickness",
+                "module": "CreateTicketScreen",
+                "type": "CreateTicketScreen.CreateTicketScreenCategoryDropDown"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-FocusBorderShouldBeVisible",
+          "ruleIndex": 11
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CreateTicketScreen.CreateTicketScreenPriorityDropDown.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "CreateTicketScreen.CreateTicketScreenPriorityDropDown.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "CreateTicketScreen",
+                "type": "CreateTicketScreen.CreateTicketScreenPriorityDropDown"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 9
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CreateTicketScreen.CreateTicketScreenPriorityDropDown.FocusedBorderThickness"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "CreateTicketScreen.CreateTicketScreenPriorityDropDown.FocusedBorderThickness",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "FocusedBorderThickness",
+                "module": "CreateTicketScreen",
+                "type": "CreateTicketScreen.CreateTicketScreenPriorityDropDown"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-FocusBorderShouldBeVisible",
+          "ruleIndex": 11
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CreateTicketScreen.CreateTicketScreenTaskDescription.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "CreateTicketScreen.CreateTicketScreenTaskDescription.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "CreateTicketScreen",
+                "type": "CreateTicketScreen.CreateTicketScreenTaskDescription"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 9
         },
         {
           "locations": [
@@ -4894,19 +5344,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "ViewTicketScreen.ViewTicketScreenCanvas.ViewTicketScreenDataCard.ViewTicketScreenBack.AccessibleLabel"
+                  "fullyQualifiedName": "Utilizador_Reservas.IcoUtilizador.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "ViewTicketScreen.ViewTicketScreenCanvas.ViewTicketScreenDataCard.ViewTicketScreenBack.AccessibleLabel",
+                  "fullyQualifiedName": "Utilizador_Reservas.IcoUtilizador.AccessibleLabel",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "AccessibleLabel",
-                "module": "ViewTicketScreen",
-                "type": "ViewTicketScreen.ViewTicketScreenCanvas.ViewTicketScreenDataCard.ViewTicketScreenBack"
+                "module": "Utilizador_Reservas",
+                "type": "Utilizador_Reservas.IcoUtilizador"
               }
             }
           ],
@@ -4924,19 +5374,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "ViewTicketScreen.ViewTicketScreenCanvas.ViewTicketScreenDataCard.ViewTicketScreenBack.TabIndex"
+                  "fullyQualifiedName": "Utilizador_Reservas.IcoUtilizador.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "ViewTicketScreen.ViewTicketScreenCanvas.ViewTicketScreenDataCard.ViewTicketScreenBack.TabIndex",
+                  "fullyQualifiedName": "Utilizador_Reservas.IcoUtilizador.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "ViewTicketScreen",
-                "type": "ViewTicketScreen.ViewTicketScreenCanvas.ViewTicketScreenDataCard.ViewTicketScreenBack"
+                "module": "Utilizador_Reservas",
+                "type": "Utilizador_Reservas.IcoUtilizador"
               }
             }
           ],
@@ -4954,19 +5404,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "ViewTicketScreen.ViewTicketScreenCanvas.ViewTicketScreenDataCard.ViewTicketScreenBack.FocusedBorderThickness"
+                  "fullyQualifiedName": "Utilizador_Reservas.lbNomeUtilizador.FocusedBorderThickness"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "ViewTicketScreen.ViewTicketScreenCanvas.ViewTicketScreenDataCard.ViewTicketScreenBack.FocusedBorderThickness",
+                  "fullyQualifiedName": "Utilizador_Reservas.lbNomeUtilizador.FocusedBorderThickness",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "FocusedBorderThickness",
-                "module": "ViewTicketScreen",
-                "type": "ViewTicketScreen.ViewTicketScreenCanvas.ViewTicketScreenDataCard.ViewTicketScreenBack"
+                "module": "Utilizador_Reservas",
+                "type": "Utilizador_Reservas.lbNomeUtilizador"
               }
             }
           ],
@@ -4984,139 +5434,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "ViewTicketScreen.ViewTicketScreenCanvas.ViewTicketScreenDataCard.ViewTicketScreenBackground.FocusedBorderThickness"
+                  "fullyQualifiedName": "Utilizador_Reservas.lbNomeUtilizador.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "ViewTicketScreen.ViewTicketScreenCanvas.ViewTicketScreenDataCard.ViewTicketScreenBackground.FocusedBorderThickness",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "FocusedBorderThickness",
-                "module": "ViewTicketScreen",
-                "type": "ViewTicketScreen.ViewTicketScreenCanvas.ViewTicketScreenDataCard.ViewTicketScreenBackground"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-FocusBorderShouldBeVisible",
-          "ruleIndex": 11
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "ViewTicketScreen.ViewTicketScreenCanvas.ViewTicketScreenDataCard.EditTicketScreenTicketDescription.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "ViewTicketScreen.ViewTicketScreenCanvas.ViewTicketScreenDataCard.EditTicketScreenTicketDescription.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "ViewTicketScreen",
-                "type": "ViewTicketScreen.ViewTicketScreenCanvas.ViewTicketScreenDataCard.EditTicketScreenTicketDescription"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 9
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "ViewTicketScreen.ViewTicketScreenCanvas.ViewTicketScreenDataCard.EditTicketScreenTicketDescription.FocusedBorderThickness"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "ViewTicketScreen.ViewTicketScreenCanvas.ViewTicketScreenDataCard.EditTicketScreenTicketDescription.FocusedBorderThickness",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "FocusedBorderThickness",
-                "module": "ViewTicketScreen",
-                "type": "ViewTicketScreen.ViewTicketScreenCanvas.ViewTicketScreenDataCard.EditTicketScreenTicketDescription"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-FocusBorderShouldBeVisible",
-          "ruleIndex": 11
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "CreateTicketScreen.CreateTicketScreenBack.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "CreateTicketScreen.CreateTicketScreenBack.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "CreateTicketScreen",
-                "type": "CreateTicketScreen.CreateTicketScreenBack"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 9
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "CreateTicketScreen.CreateTicketScreenBack.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "CreateTicketScreen.CreateTicketScreenBack.TabIndex",
+                  "fullyQualifiedName": "Utilizador_Reservas.lbNomeUtilizador.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
-                "module": "CreateTicketScreen",
-                "type": "CreateTicketScreen.CreateTicketScreenBack"
+                "module": "Utilizador_Reservas",
+                "type": "Utilizador_Reservas.lbNomeUtilizador"
               }
             }
           ],
@@ -5134,19 +5464,79 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "CreateTicketScreen.CreateTicketScreenBack.FocusedBorderThickness"
+                  "fullyQualifiedName": "Utilizador_InfoLivro.IcoUtilizador_1.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "CreateTicketScreen.CreateTicketScreenBack.FocusedBorderThickness",
+                  "fullyQualifiedName": "Utilizador_InfoLivro.IcoUtilizador_1.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Utilizador_InfoLivro",
+                "type": "Utilizador_InfoLivro.IcoUtilizador_1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 9
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Utilizador_InfoLivro.IcoUtilizador_1.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Utilizador_InfoLivro.IcoUtilizador_1.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "Utilizador_InfoLivro",
+                "type": "Utilizador_InfoLivro.IcoUtilizador_1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 10
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Utilizador_InfoLivro.lbVoltarInfoLivro.FocusedBorderThickness"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Utilizador_InfoLivro.lbVoltarInfoLivro.FocusedBorderThickness",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "FocusedBorderThickness",
-                "module": "CreateTicketScreen",
-                "type": "CreateTicketScreen.CreateTicketScreenBack"
+                "module": "Utilizador_InfoLivro",
+                "type": "Utilizador_InfoLivro.lbVoltarInfoLivro"
               }
             }
           ],
@@ -5164,19 +5554,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "CreateTicketScreen.CreateTicketScreenTitleText.AccessibleLabel"
+                  "fullyQualifiedName": "Utilizador_InfoLivro.lbVoltarInfoLivro.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "CreateTicketScreen.CreateTicketScreenTitleText.AccessibleLabel",
+                  "fullyQualifiedName": "Utilizador_InfoLivro.lbVoltarInfoLivro.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
-                "member": "AccessibleLabel",
-                "module": "CreateTicketScreen",
-                "type": "CreateTicketScreen.CreateTicketScreenTitleText"
+                "member": "TabIndex",
+                "module": "Utilizador_InfoLivro",
+                "type": "Utilizador_InfoLivro.lbVoltarInfoLivro"
               }
             }
           ],
@@ -5186,57 +5576,27 @@
           "properties": {
             "level": "Medium"
           },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 9
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 10
         },
         {
           "locations": [
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "CreateTicketScreen.CreateTicketScreenCategoryDropDown.AccessibleLabel"
+                  "fullyQualifiedName": "Utilizador_InfoLivro.lbNomeUtilizador_1.FocusedBorderThickness"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "CreateTicketScreen.CreateTicketScreenCategoryDropDown.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "CreateTicketScreen",
-                "type": "CreateTicketScreen.CreateTicketScreenCategoryDropDown"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 9
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "CreateTicketScreen.CreateTicketScreenCategoryDropDown.FocusedBorderThickness"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "CreateTicketScreen.CreateTicketScreenCategoryDropDown.FocusedBorderThickness",
+                  "fullyQualifiedName": "Utilizador_InfoLivro.lbNomeUtilizador_1.FocusedBorderThickness",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "FocusedBorderThickness",
-                "module": "CreateTicketScreen",
-                "type": "CreateTicketScreen.CreateTicketScreenCategoryDropDown"
+                "module": "Utilizador_InfoLivro",
+                "type": "Utilizador_InfoLivro.lbNomeUtilizador_1"
               }
             }
           ],
@@ -5254,19 +5614,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "CreateTicketScreen.CreateTicketScreenPriorityDropDown.AccessibleLabel"
+                  "fullyQualifiedName": "Utilizador_InfoLivro.lbNomeUtilizador_1.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "CreateTicketScreen.CreateTicketScreenPriorityDropDown.AccessibleLabel",
+                  "fullyQualifiedName": "Utilizador_InfoLivro.lbNomeUtilizador_1.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
-                "member": "AccessibleLabel",
-                "module": "CreateTicketScreen",
-                "type": "CreateTicketScreen.CreateTicketScreenPriorityDropDown"
+                "member": "TabIndex",
+                "module": "Utilizador_InfoLivro",
+                "type": "Utilizador_InfoLivro.lbNomeUtilizador_1"
               }
             }
           ],
@@ -5276,68 +5636,8 @@
           "properties": {
             "level": "Medium"
           },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 9
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "CreateTicketScreen.CreateTicketScreenPriorityDropDown.FocusedBorderThickness"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "CreateTicketScreen.CreateTicketScreenPriorityDropDown.FocusedBorderThickness",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "FocusedBorderThickness",
-                "module": "CreateTicketScreen",
-                "type": "CreateTicketScreen.CreateTicketScreenPriorityDropDown"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-FocusBorderShouldBeVisible",
-          "ruleIndex": 11
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "CreateTicketScreen.CreateTicketScreenTaskDescription.AccessibleLabel"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "CreateTicketScreen.CreateTicketScreenTaskDescription.AccessibleLabel",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "AccessibleLabel",
-                "module": "CreateTicketScreen",
-                "type": "CreateTicketScreen.CreateTicketScreenTaskDescription"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-AccessibleLabelNeeded",
-          "ruleIndex": 9
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 10
         },
         {
           "locations": [
@@ -5368,36 +5668,6 @@
           },
           "ruleId": "app-UnusedVariables",
           "ruleIndex": 12
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "App.953296646"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "App.953296646",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "953296646",
-                "module": "App",
-                "type": "App"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "app-UnusedMediaResources",
-          "ruleIndex": 13
         }
       ],
       "tool": {
@@ -5437,23 +5707,6 @@
               }
             },
             {
-              "id": "app-ErrIncompatibleCtxtVariableTypes",
-              "messageStrings": {
-                "issue": {
-                  "text": "Incompatible type. We can't evaluate your formula because the context variable types are incompatible with the types of values in other places in your app."
-                }
-              },
-              "properties": {
-                "componentType": "app",
-                "howToFix": [
-                  "Look at places where you use a context variable and make sure that the type (e.g., text, number, date, record, table) is compatible."
-                ],
-                "level": "High",
-                "primaryCategory": "formula",
-                "whyFix": ""
-              }
-            },
-            {
               "id": "app-ErrInvalidArgs-Func",
               "messageStrings": {
                 "issue": {
@@ -5477,6 +5730,23 @@
               "properties": {
                 "componentType": "app",
                 "level": "Medium",
+                "primaryCategory": "formula",
+                "whyFix": ""
+              }
+            },
+            {
+              "id": "app-ErrIncompatibleCtxtVariableTypes",
+              "messageStrings": {
+                "issue": {
+                  "text": "Incompatible type. We can't evaluate your formula because the context variable types are incompatible with the types of values in other places in your app."
+                }
+              },
+              "properties": {
+                "componentType": "app",
+                "howToFix": [
+                  "Look at places where you use a context variable and make sure that the type (e.g., text, number, date, record, table) is compatible."
+                ],
+                "level": "High",
                 "primaryCategory": "formula",
                 "whyFix": ""
               }
@@ -5610,23 +5880,6 @@
                 "level": "Medium",
                 "primaryCategory": "performance",
                 "whyFix": "Esta variável está declarada, mas não está referenciada por qualquer controlo e, portanto, não é necessária."
-              }
-            },
-            {
-              "id": "app-UnusedMediaResources",
-              "messageStrings": {
-                "issue": {
-                  "text": "Ficheiros de multimédia não utilizados"
-                }
-              },
-              "properties": {
-                "componentType": "app",
-                "howToFix": [
-                  "Remova o ficheiro de multimédia não utilizado no Painel de multimédia."
-                ],
-                "level": "Medium",
-                "primaryCategory": "performance",
-                "whyFix": "Este ficheiro de multimédia não é mencionado por quaisquer fórmulas de controlo, pelo que não é necessário. Remova-o para melhorar o desempenho."
               }
             }
           ],
