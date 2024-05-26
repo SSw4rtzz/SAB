@@ -5464,6 +5464,36 @@
             {
               "logicalLocations": [
                 {
+                  "fullyQualifiedName": "Utilizador_InfoLivro.Button1.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Utilizador_InfoLivro.Button1.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "Utilizador_InfoLivro",
+                "type": "Utilizador_InfoLivro.Button1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 10
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
                   "fullyQualifiedName": "Utilizador_InfoLivro.IcoUtilizador_1.AccessibleLabel"
                 }
               ],
