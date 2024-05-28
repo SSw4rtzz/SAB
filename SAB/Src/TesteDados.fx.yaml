@@ -19,6 +19,7 @@ TesteDados As screen:
             DisabledBorderColor: =RGBA(166, 166, 166, 1)
             DisabledFill: =RGBA(244, 244, 244, 1)
             Height: =72
+            Image: =ThisItem.cr355_
             OnSelect: =Select(Parent)
             RadiusBottomLeft: =8
             RadiusBottomRight: =8
@@ -57,7 +58,7 @@ TesteDados As screen:
             PaddingRight: =0
             PaddingTop: =0
             Size: =12
-            Text: =ThisItem.cr355_edition
+            Text: =ThisItem.cr355_availability
             VerticalAlign: =VerticalAlign.Top
             Width: =Title2.Width
             X: =Title2.X

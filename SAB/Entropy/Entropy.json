@@ -74,31 +74,23 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "05/28/2024 19:13:09",
+  "HeaderLastSavedDateTimeUTC": "05/28/2024 19:33:22",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "ff18bc1f-8075-4e48-b5f1-63a22b275810": "\"/providers/microsoft.powerapps/apis/shared_office365users/connections/e3b15d21062d4c6c8d9f8fe5c465e8c9\""
   },
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {
-    "556694153": "4ec6f258-2d73-4918-8f60-bad2a570ec43.jpg",
     "625850102": "02a7cb9f-0d82-46a1-8437-8eaa9dccf80b.jpg",
     "943859966": "6ae221da-39f2-402e-8ecf-304f65b453c4.jpg",
     "956302114": "3300234f-a559-450c-8209-824e37cfa8b7.jpg",
-    "995447434": "67814d8d-ce90-488e-a1ea-b9790af969ae.jpg",
-    "icons-8-exit-96-px@3x": "0006.png",
-    "icons-8-train-ticket-96-px": "0004.png",
-    "photo-helpdeskadmin": "0007.jpg"
+    "icons-8-exit-96-px@3x": "0006.png"
   },
   "LocalResourceRootPaths": {
-    "556694153": "https://docserverpwaprodweu.blob.core.windows.net/cb78deac-29a7-46ae-ac49-23f220893492-1/resource/Assets0Images04ec6f258-2d73-4918-8f60-bad2a570ec43.jpg?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-05-28T18%3A55%3A49Z&ske=2024-05-29T19%3A10%3A49Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-05-29T19%3A10%3A49Z&sr=b&sp=r&sig=s%2BXDkWNa0STmKUQB58SOB9X%2BLN7DKSdLAQyI7kHfe%2BA%3D",
     "625850102": "https://docserverpwaprodweu.blob.core.windows.net/cb78deac-29a7-46ae-ac49-23f220893492-1/resource/Assets0Images002a7cb9f-0d82-46a1-8437-8eaa9dccf80b.jpg?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-05-28T18%3A55%3A50Z&ske=2024-05-29T19%3A10%3A50Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-05-29T19%3A10%3A50Z&sr=b&sp=r&sig=BIqB0RfL6dstPQ1qQQbRotIY9G6VO7SkNyTaxpy92%2BI%3D",
     "943859966": "https://docserverpwaprodweu.blob.core.windows.net/cb78deac-29a7-46ae-ac49-23f220893492-1/resource/Assets0Images06ae221da-39f2-402e-8ecf-304f65b453c4.jpg?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-05-28T18%3A55%3A50Z&ske=2024-05-29T19%3A10%3A50Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-05-29T19%3A10%3A50Z&sr=b&sp=r&sig=MQrpZIjJXvreuALGOEcRydGM98RsPmQN3tvAKgSm%2BDE%3D",
     "956302114": "https://docserverpwaprodweu.blob.core.windows.net/cb78deac-29a7-46ae-ac49-23f220893492-1/resource/Assets0Images03300234f-a559-450c-8209-824e37cfa8b7.jpg?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-05-28T18%3A55%3A50Z&ske=2024-05-29T19%3A10%3A50Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-05-29T19%3A10%3A50Z&sr=b&sp=r&sig=wn3ljfi3ncZHXbFr3LGvQbTBbYxW%2FEf37C3jd%2FaKQW4%3D",
-    "995447434": "https://docserverpwaprodweu.blob.core.windows.net/cb78deac-29a7-46ae-ac49-23f220893492-1/resource/Assets0Images067814d8d-ce90-488e-a1ea-b9790af969ae.jpg?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-05-28T18%3A55%3A50Z&ske=2024-05-29T19%3A10%3A50Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-05-29T19%3A10%3A50Z&sr=b&sp=r&sig=IgEZThOfu3wB%2BQn%2F8hyPmx6vbM9wgsUyHl2%2Fxs1enFU%3D",
-    "icons-8-exit-96-px@3x": "https://docserverpwaprodweu.blob.core.windows.net/cb78deac-29a7-46ae-ac49-23f220893492-1/resource/Assets0Images00006.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-05-28T18%3A55%3A49Z&ske=2024-05-29T19%3A10%3A49Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-05-29T19%3A10%3A49Z&sr=b&sp=r&sig=Iu2OFCITA%2BN7CAdX7FASj3Mr6A0e0KTEiuwVQ%2BYaDTk%3D",
-    "icons-8-train-ticket-96-px": "https://docserverpwaprodweu.blob.core.windows.net/cb78deac-29a7-46ae-ac49-23f220893492-1/resource/Assets0Images00004.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-05-28T18%3A55%3A49Z&ske=2024-05-29T19%3A10%3A49Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-05-29T19%3A10%3A49Z&sr=b&sp=r&sig=G%2FzkdeizYYCYxd3d%2FhID99Owh4WJieFKWmDvTfB4sPg%3D",
-    "photo-helpdeskadmin": "https://docserverpwaprodweu.blob.core.windows.net/cb78deac-29a7-46ae-ac49-23f220893492-1/resource/Assets0Images00007.jpg?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-05-28T18%3A55%3A49Z&ske=2024-05-29T19%3A10%3A49Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-05-29T19%3A10%3A49Z&sr=b&sp=r&sig=jOpZBIkHmKc5bow9arL8kHOYV2Qk0nYo3VAKCd6EuGM%3D"
+    "icons-8-exit-96-px@3x": "https://docserverpwaprodweu.blob.core.windows.net/cb78deac-29a7-46ae-ac49-23f220893492-1/resource/Assets0Images00006.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-05-28T18%3A55%3A49Z&ske=2024-05-29T19%3A10%3A49Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-05-29T19%3A10%3A49Z&sr=b&sp=r&sig=Iu2OFCITA%2BN7CAdX7FASj3Mr6A0e0KTEiuwVQ%2BYaDTk%3D"
   },
   "OldLogoFileName": "3zpo20bl.jpg",
   "OrderComponentMetadata": {},
@@ -318,22 +310,18 @@
     "Voltar_InfoLivro": 18
   },
   "ResourcesJsonIndices": {
-    "Image-556694153": 11,
-    "Image-625850102": 12,
-    "Image-943859966": 14,
-    "Image-956302114": 13,
-    "Image-995447434": 15,
-    "Image-Basel_Add": 4,
-    "Image-Basel_ArrowsUpDown": 8,
-    "Image-Basel_Check": 2,
-    "Image-Basel_ChevronLeft": 6,
-    "Image-Basel_ChevronRight": 5,
-    "Image-Basel_Message": 10,
-    "Image-Basel_Trash": 3,
-    "Image-icons-8-exit-96-px@3x": 9,
-    "Image-icons-8-train-ticket-96-px": 7,
-    "Image-photo-helpdeskadmin": 0,
-    "Image-SampleImage": 1
+    "Image-625850102": 9,
+    "Image-943859966": 11,
+    "Image-956302114": 10,
+    "Image-Basel_Add": 3,
+    "Image-Basel_ArrowsUpDown": 6,
+    "Image-Basel_Check": 1,
+    "Image-Basel_ChevronLeft": 5,
+    "Image-Basel_ChevronRight": 4,
+    "Image-Basel_Message": 8,
+    "Image-Basel_Trash": 2,
+    "Image-icons-8-exit-96-px@3x": 7,
+    "Image-SampleImage": 0
   },
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
