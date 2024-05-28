@@ -74,66 +74,6 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Utilizador_Reservas.lbReservasSair.FocusedBorderThickness"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Utilizador_Reservas.lbReservasSair.FocusedBorderThickness",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "FocusedBorderThickness",
-                "module": "Utilizador_Reservas",
-                "type": "Utilizador_Reservas.lbReservasSair"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-FocusBorderShouldBeVisible",
-          "ruleIndex": 2
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
-                  "fullyQualifiedName": "Utilizador_Reservas.lbReservasSair.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Utilizador_Reservas.lbReservasSair.TabIndex",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "TabIndex",
-                "module": "Utilizador_Reservas",
-                "type": "Utilizador_Reservas.lbReservasSair"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 1
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
                   "fullyQualifiedName": "Utilizador_Reservas.IcoUtilizador.AccessibleLabel"
                 }
               ],
@@ -177,6 +117,66 @@
                 "member": "TabIndex",
                 "module": "Utilizador_Reservas",
                 "type": "Utilizador_Reservas.IcoUtilizador"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Utilizador_Reservas.lbReservasSair.FocusedBorderThickness"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Utilizador_Reservas.lbReservasSair.FocusedBorderThickness",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "FocusedBorderThickness",
+                "module": "Utilizador_Reservas",
+                "type": "Utilizador_Reservas.lbReservasSair"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-FocusBorderShouldBeVisible",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Utilizador_Reservas.lbReservasSair.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Utilizador_Reservas.lbReservasSair.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "Utilizador_Reservas",
+                "type": "Utilizador_Reservas.lbReservasSair"
               }
             }
           ],
@@ -254,19 +254,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Utilizador_InfoLivro.backgroundUtilizador.TabIndex"
+                  "fullyQualifiedName": "Utilizador_InfoLivro.backgroundVoltar.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Utilizador_InfoLivro.backgroundUtilizador.TabIndex",
+                  "fullyQualifiedName": "Utilizador_InfoLivro.backgroundVoltar.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
                 "module": "Utilizador_InfoLivro",
-                "type": "Utilizador_InfoLivro.backgroundUtilizador"
+                "type": "Utilizador_InfoLivro.backgroundVoltar"
               }
             }
           ],
@@ -284,19 +284,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Utilizador_InfoLivro.backgroundVoltar.TabIndex"
+                  "fullyQualifiedName": "Utilizador_InfoLivro.backgroundUtilizador.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Utilizador_InfoLivro.backgroundVoltar.TabIndex",
+                  "fullyQualifiedName": "Utilizador_InfoLivro.backgroundUtilizador.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
                 "module": "Utilizador_InfoLivro",
-                "type": "Utilizador_InfoLivro.backgroundVoltar"
+                "type": "Utilizador_InfoLivro.backgroundUtilizador"
               }
             }
           ],
@@ -507,6 +507,66 @@
                 "member": "TabIndex",
                 "module": "Utilizador_InfoLivro",
                 "type": "Utilizador_InfoLivro.backgroundTituloImagem"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TesteDados.Gallery1.AccessibleLabel"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TesteDados.Gallery1.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "TesteDados",
+                "type": "TesteDados.Gallery1"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TesteDados.Gallery1.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TesteDados.Gallery1.TabIndex",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "TabIndex",
+                "module": "TesteDados",
+                "type": "TesteDados.Gallery1"
               }
             }
           ],

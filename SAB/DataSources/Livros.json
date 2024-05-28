@@ -1,0 +1,73 @@
+[
+  {
+    "CdsFCBContext": "{\"FileType\":true,\"ImageExternalStorage\":true}",
+    "EntitySetName": "cr355_livroses",
+    "IsHidden": false,
+    "IsSampleData": false,
+    "IsWritable": true,
+    "LogicalName": "cr355_livros",
+    "Name": "Livros",
+    "NativeCDSDataSourceInfoNameMapping": {},
+    "PreferredName": "Livros",
+    "Type": "NativeCDSDataSourceInfo"
+  },
+  {
+    "DisplayName": "Disponibilidade (Livros)",
+    "Name": "cr355_livros_cr355_availability",
+    "OptionSetInfoNameMapping": {
+      "0": "Disponível"
+    },
+    "OptionSetIsBooleanValued": false,
+    "OptionSetIsGlobal": false,
+    "OptionSetReference": {
+      "OptionSetReferenceItem0": {
+        "OptionSetReferenceColumnName": "cr355_availability",
+        "OptionSetReferenceEntityName": "Livros"
+      }
+    },
+    "OptionSetTypeKey": "PicklistType",
+    "RelatedColumnInvariantName": "cr355_availability",
+    "RelatedEntityName": "Livros",
+    "Type": "OptionSetInfo"
+  },
+  {
+    "DisplayName": "Estado (Livros)",
+    "Name": "new_reserveentity_rp53fd1p1ekxpa_t7_2689218031_statecode",
+    "OptionSetInfoNameMapping": {
+      "0": "Ativo",
+      "1": "Inativo"
+    },
+    "OptionSetIsBooleanValued": false,
+    "OptionSetIsGlobal": false,
+    "OptionSetReference": {
+      "OptionSetReferenceItem0": {
+        "OptionSetReferenceColumnName": "statecode",
+        "OptionSetReferenceEntityName": "Livros"
+      }
+    },
+    "OptionSetTypeKey": "StateType",
+    "RelatedColumnInvariantName": "statecode",
+    "RelatedEntityName": "Livros",
+    "Type": "OptionSetInfo"
+  },
+  {
+    "DisplayName": "Razão do Estado (Livros)",
+    "Name": "new_reserveentity_rp53fd1p1ekxpa_t7_2689218031_statuscode",
+    "OptionSetInfoNameMapping": {
+      "1": "Ativo",
+      "2": "Inativo"
+    },
+    "OptionSetIsBooleanValued": false,
+    "OptionSetIsGlobal": false,
+    "OptionSetReference": {
+      "OptionSetReferenceItem0": {
+        "OptionSetReferenceColumnName": "statuscode",
+        "OptionSetReferenceEntityName": "Livros"
+      }
+    },
+    "OptionSetTypeKey": "StatusType",
+    "RelatedColumnInvariantName": "statuscode",
+    "RelatedEntityName": "Livros",
+    "Type": "OptionSetInfo"
+  }
+]
