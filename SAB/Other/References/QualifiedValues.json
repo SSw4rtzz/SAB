@@ -3,7 +3,9 @@
     {
       "Kind": "default.cds_cr355_livros_forms",
       "Namespace": "Livros (Formulários)",
-      "Values": {}
+      "Values": {
+        "Informações": "bca6b656-b74c-4d0f-b684-f7c4aab3aaac"
+      }
     }
   ]
 }
