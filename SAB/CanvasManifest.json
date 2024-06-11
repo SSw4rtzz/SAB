@@ -100,7 +100,7 @@
       "zeroalltabindexes": true
     },
     "Author": "",
-    "BindingErrorCount": 13,
+    "BindingErrorCount": 2,
     "ContainsThirdPartyPcfControls": false,
     "DefaultConnectedDataSourceMaxGetRowsCount": 500,
     "DocumentAppType": "Phone",
@@ -135,7 +135,7 @@
   },
   "ScreenOrder": [
     "Home",
-    "Screen1",
+    "ListaLivros",
     "Utilizador_InfoLivro"
   ]
 }

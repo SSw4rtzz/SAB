@@ -41,9 +41,7 @@ Home As screen:
         HoverBorderColor: =App.Theme.Colors.Darker10
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =App.Theme.Colors.Darker10
-        OnSelect: |-
-            =Set(isAdmin,false);
-            Navigate(Utilizador_Reservas,BorderStyle.None)
+        OnSelect: =
         PressedBorderColor: =App.Theme.Colors.Darker40
         PressedColor: =Self.Color
         PressedFill: =App.Theme.Colors.Darker40
@@ -68,10 +66,7 @@ Home As screen:
         HoverBorderColor: =App.Theme.Colors.Darker10
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =App.Theme.Colors.Darker10
-        OnSelect: |-
-            =
-            If(MyProfile.Mail in AdminList.Value,Set(isAdmin,true),Set(isAdmin,false));
-            If(isAdmin,Navigate(Utilizador_Reservas,BorderStyle.None),Set(ShowAccessError,true))
+        OnSelect: =
         PressedBorderColor: =App.Theme.Colors.Darker40
         PressedColor: =Self.Color
         PressedFill: =App.Theme.Colors.Darker40
@@ -138,10 +133,7 @@ Home As screen:
         HoverBorderColor: =App.Theme.Colors.Darker10
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =App.Theme.Colors.Darker10
-        OnSelect: |-
-            =
-            If(MyProfile.Mail in AdminList.Value,Set(isAdmin,true),Set(isAdmin,false));
-            If(isAdmin,Navigate(Utilizador_Reservas,BorderStyle.None),Set(ShowAccessError,true))
+        OnSelect: =
         PressedBorderColor: =App.Theme.Colors.Darker40
         PressedColor: =Self.Color
         PressedFill: =App.Theme.Colors.Darker40

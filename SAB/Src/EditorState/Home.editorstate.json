@@ -252,7 +252,14 @@
         "HoverBorderColor",
         "HoverColor",
         "HoverFill",
-        "OnSelect",
+        {
+          "AFDDataSourceName": "",
+          "AutoRuleBindingEnabled": false,
+          "AutoRuleBindingString": "\nIf(MyProfile.Mail in AdminList.Value,Set(isAdmin,true),Set(isAdmin,false));\nIf(isAdmin,Navigate(Utilizador_Reservas,BorderStyle.None),Set(ShowAccessError,true))",
+          "InvariantPropertyName": "OnSelect",
+          "IsLockable": false,
+          "NameMapSourceSchema": "?"
+        },
         "PressedBorderColor",
         "PressedColor",
         "PressedFill",
@@ -469,7 +476,7 @@
         {
           "Category": "Behavior",
           "PropertyName": "OnSelect",
-          "RuleProviderType": "Unknown"
+          "RuleProviderType": "User"
         }
       ],
       "StyleName": "defaultButtonStyle",
@@ -511,7 +518,14 @@
         "HoverBorderColor",
         "HoverColor",
         "HoverFill",
-        "OnSelect",
+        {
+          "AFDDataSourceName": "",
+          "AutoRuleBindingEnabled": false,
+          "AutoRuleBindingString": "Set(isAdmin,false);\nNavigate(Utilizador_Reservas,BorderStyle.None)",
+          "InvariantPropertyName": "OnSelect",
+          "IsLockable": false,
+          "NameMapSourceSchema": "?"
+        },
         "PressedBorderColor",
         "PressedColor",
         "PressedFill",
@@ -735,7 +749,7 @@
         {
           "Category": "Behavior",
           "PropertyName": "OnSelect",
-          "RuleProviderType": "Unknown"
+          "RuleProviderType": "User"
         }
       ],
       "StyleName": "defaultButtonStyle",
@@ -770,7 +784,14 @@
         "HoverBorderColor",
         "HoverColor",
         "HoverFill",
-        "OnSelect",
+        {
+          "AFDDataSourceName": "",
+          "AutoRuleBindingEnabled": false,
+          "AutoRuleBindingString": "\nIf(MyProfile.Mail in AdminList.Value,Set(isAdmin,true),Set(isAdmin,false));\nIf(isAdmin,Navigate(Utilizador_Reservas,BorderStyle.None),Set(ShowAccessError,true))",
+          "InvariantPropertyName": "OnSelect",
+          "IsLockable": false,
+          "NameMapSourceSchema": "?"
+        },
         "PressedBorderColor",
         "PressedColor",
         "PressedFill",
@@ -987,7 +1008,7 @@
         {
           "Category": "Behavior",
           "PropertyName": "OnSelect",
-          "RuleProviderType": "Unknown"
+          "RuleProviderType": "User"
         }
       ],
       "StyleName": "defaultButtonStyle",
