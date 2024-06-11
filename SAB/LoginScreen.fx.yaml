@@ -1,0 +1,210 @@
+LoginScreen As screen:
+    BackgroundImage: =
+    Fill: =RGBA(56, 86, 153, 30%)
+    Height: =Max(App.Height, App.DesignHeight)
+    ImagePosition: =ImagePosition.Fill
+    OnVisible: =Set(ShowAccessError,false)
+    Width: =Max(App.Width, App.DesignWidth)
+
+    BackGround As image:
+        BorderColor: =RGBA(255, 102, 102, 1)
+        DisabledBorderColor: =RGBA(159, 167, 165, 1)
+        DisabledFill: =RGBA(193, 193, 193, 0.95)
+        FocusedBorderColor: =BackGround.BorderColor
+        Height: =1136
+        HoverBorderColor: =ColorFade(BackGround.BorderColor, 20%)
+        HoverFill: =ColorFade(BackGround.Fill, 20%)
+        Image: ='943859966'
+        ImagePosition: =ImagePosition.Fill
+        PressedBorderColor: =ColorFade(BackGround.BorderColor, -20%)
+        PressedFill: =ColorFade(BackGround.Fill, -20%)
+        Transparency: =0.1
+        Width: =640
+        ZIndex: =1
+
+    BackgroundDim As rectangle:
+        BorderColor: =RGBA(255, 102, 102, 1)
+        DisabledFill: =BackgroundDim.Fill
+        Fill: =RGBA(0, 0, 0, 0.8)
+        FocusedBorderColor: =BackgroundDim.BorderColor
+        Height: =1136
+        HoverFill: =BackgroundDim.Fill
+        PressedFill: =BackgroundDim.Fill
+        Width: =640
+        ZIndex: =2
+
+    btnLogin As button:
+        BorderColor: =ColorFade(btnLogin.Fill, -15%)
+        BorderThickness: =0
+        Color: =RGBA(255,255,255,1)
+        DisabledBorderColor: =ColorFade(btnLogin.BorderColor, 70%)
+        DisabledColor: =ColorFade(RGBA(47, 41, 43, 1), 70%)
+        DisabledFill: =ColorFade(RGBA(159, 167, 165, 1), 50%)
+        Fill: =RGBA(211, 120, 67, 1)
+        FocusedBorderColor: =btnLogin.BorderColor
+        Height: =89
+        HoverBorderColor: |-
+            =ColorValue("#d37843")
+        HoverColor: =btnLogin.Color
+        HoverFill: =ColorFade(btnLogin.Fill, 20%)
+        OnSelect: |-
+            =Set(isAdmin,false);
+            Navigate(Utilizador_Reservas,BorderStyle.None)
+        PressedBorderColor: =btnLogin.Fill
+        PressedColor: =btnLogin.Fill
+        PressedFill: =btnLogin.Color
+        RadiusBottomLeft: =20
+        RadiusBottomRight: =20
+        RadiusTopLeft: =20
+        RadiusTopRight: =20
+        Size: =18
+        Text: ="Entrar"
+        Width: =485
+        X: =77
+        Y: =468
+        ZIndex: =3
+
+    btnCriarConta As button:
+        BorderColor: =ColorFade(btnCriarConta.Fill, -15%)
+        BorderThickness: =0
+        Color: =RGBA(255,255,255,1)
+        DisabledBorderColor: =ColorFade(btnCriarConta.BorderColor, 70%)
+        DisabledColor: =ColorFade(RGBA(47, 41, 43, 1), 70%)
+        DisabledFill: =ColorFade(RGBA(159, 167, 165, 1), 50%)
+        Fill: =RGBA(171, 101, 60, 0.64)
+        FocusedBorderColor: =btnCriarConta.BorderColor
+        Height: =74
+        HoverBorderColor: |-
+            =ColorValue("#e0454a")
+        HoverColor: =btnCriarConta.Color
+        HoverFill: =ColorFade(btnCriarConta.Fill, 20%)
+        OnSelect: |-
+            =
+            If(MyProfile.Mail in AdminList.Value,Set(isAdmin,true),Set(isAdmin,false));
+            If(isAdmin,Navigate(Utilizador_Reservas,BorderStyle.None),Set(ShowAccessError,true))
+        PressedBorderColor: =btnCriarConta.Fill
+        PressedColor: =btnCriarConta.Fill
+        PressedFill: =btnCriarConta.Color
+        RadiusBottomLeft: =20
+        RadiusBottomRight: =20
+        RadiusTopLeft: =20
+        RadiusTopRight: =20
+        Size: =18
+        Text: ="Criar Conta"
+        Width: =356
+        X: =142
+        Y: =923
+        ZIndex: =4
+
+    LogoAplicacao As label:
+        Align: =Align.Center
+        BorderColor: =RGBA(255, 102, 102, 1)
+        Color: =RGBA(255, 255, 255, 1)
+        DisabledColor: =ColorFade(RGBA(47, 41, 43, 1), 70%)
+        FocusedBorderColor: =LogoAplicacao.BorderColor
+        Font: =Font.'Dancing Script'
+        Height: =251
+        HoverBorderColor: =LogoAplicacao.BorderColor
+        HoverColor: =LogoAplicacao.Color
+        HoverFill: =LogoAplicacao.Fill
+        PaddingBottom: =0
+        PaddingLeft: =0
+        PaddingRight: =0
+        PaddingTop: =0
+        PressedBorderColor: =LogoAplicacao.BorderColor
+        PressedColor: =LogoAplicacao.Color
+        PressedFill: =LogoAplicacao.Fill
+        Size: =90
+        Text: ="SAB"
+        Width: =372
+        X: =134
+        Y: =92
+        ZIndex: =5
+
+    "'LoginScreenAccessDeniedText (APAGAR)' As label":
+        Align: =LayoutAlignItems.Center
+        BorderColor: =RGBA(255, 102, 102, 1)
+        Color: =RGBA(255, 255, 255, 1)
+        DisabledColor: =ColorFade(RGBA(47, 41, 43, 1), 70%)
+        FocusedBorderColor: ='LoginScreenAccessDeniedText (APAGAR)'.BorderColor
+        Height: =98
+        HoverBorderColor: ='LoginScreenAccessDeniedText (APAGAR)'.BorderColor
+        HoverColor: ='LoginScreenAccessDeniedText (APAGAR)'.Color
+        HoverFill: ='LoginScreenAccessDeniedText (APAGAR)'.Fill
+        LineHeight: =1.9
+        PaddingLeft: =80
+        PaddingRight: =80
+        PressedBorderColor: ='LoginScreenAccessDeniedText (APAGAR)'.BorderColor
+        PressedColor: ='LoginScreenAccessDeniedText (APAGAR)'.Color
+        PressedFill: ='LoginScreenAccessDeniedText (APAGAR)'.Fill
+        Size: =15
+        Text: ="We were unable to give you access as an admin as your account does not have admin privileges."
+        Visible: =ShowAccessError
+        Width: =640
+        Y: =787
+        ZIndex: =7
+
+    btnSobre As button:
+        BorderColor: =ColorFade(btnSobre.Fill, -15%)
+        BorderThickness: =0
+        Color: =RGBA(255,255,255,1)
+        DisabledBorderColor: =ColorFade(btnSobre.BorderColor, 70%)
+        DisabledColor: =ColorFade(RGBA(47, 41, 43, 1), 70%)
+        DisabledFill: =ColorFade(RGBA(159, 167, 165, 1), 50%)
+        Fill: =RGBA(171, 101, 60, 0.64)
+        FocusedBorderColor: =btnSobre.BorderColor
+        Height: =74
+        HoverBorderColor: |-
+            =ColorValue("#e0454a")
+        HoverColor: =btnSobre.Color
+        HoverFill: =ColorFade(btnSobre.Fill, 20%)
+        OnSelect: |-
+            =
+            If(MyProfile.Mail in AdminList.Value,Set(isAdmin,true),Set(isAdmin,false));
+            If(isAdmin,Navigate(Utilizador_Reservas,BorderStyle.None),Set(ShowAccessError,true))
+        PressedBorderColor: =btnSobre.Fill
+        PressedColor: =btnSobre.Fill
+        PressedFill: =btnSobre.Color
+        RadiusBottomLeft: =20
+        RadiusBottomRight: =20
+        RadiusTopLeft: =20
+        RadiusTopRight: =20
+        Size: =18
+        Text: ="Sobre"
+        Width: =356
+        X: =142
+        Y: =1020
+        ZIndex: =8
+
+    "'BotãoBackupAdmin (APAGAR)' As button":
+        BorderColor: =ColorFade('BotãoBackupAdmin (APAGAR)'.Fill, -15%)
+        BorderThickness: =0
+        Color: =RGBA(255,255,255,1)
+        DisabledBorderColor: =ColorFade('BotãoBackupAdmin (APAGAR)'.BorderColor, 70%)
+        DisabledColor: =ColorFade(RGBA(47, 41, 43, 1), 70%)
+        DisabledFill: =ColorFade(RGBA(159, 167, 165, 1), 50%)
+        Fill: =RGBA(171, 101, 60, 0)
+        FocusedBorderColor: ='BotãoBackupAdmin (APAGAR)'.BorderColor
+        Height: =146
+        HoverBorderColor: |-
+            =ColorValue("#e0454a")
+        HoverColor: ='BotãoBackupAdmin (APAGAR)'.Color
+        HoverFill: =ColorFade('BotãoBackupAdmin (APAGAR)'.Fill, 20%)
+        OnSelect: |-
+            =
+            If(MyProfile.Mail in AdminList.Value,Set(isAdmin,true),Set(isAdmin,false));
+            If(isAdmin,Navigate(Utilizador_Reservas,BorderStyle.None),Set(ShowAccessError,true))
+        PressedBorderColor: ='BotãoBackupAdmin (APAGAR)'.Fill
+        PressedColor: ='BotãoBackupAdmin (APAGAR)'.Fill
+        PressedFill: ='BotãoBackupAdmin (APAGAR)'.Color
+        RadiusBottomLeft: =20
+        RadiusBottomRight: =20
+        RadiusTopLeft: =20
+        RadiusTopRight: =20
+        Size: =18
+        Text: =""
+        Width: =239
+        X: =323
+        Y: =667
+        ZIndex: =9
+
