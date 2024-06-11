@@ -27,14 +27,14 @@ Home As screen:
         Width: =640
         ZIndex: =2
 
-    btnLogin As button:
+    btnLivros As button:
         BorderColor: =App.Theme.Colors.Primary
         BorderThickness: =0
         DisabledBorderColor: =
         DisabledColor: =RGBA(166, 166, 166, 1)
         DisabledFill: =RGBA(244, 244, 244, 1)
         Fill: =RGBA(199,124,78,1)
-        FocusedBorderColor: =btnLogin.BorderColor
+        FocusedBorderColor: =btnLivros.BorderColor
         Font: =App.Theme.Font
         FontWeight: =FontWeight.Semibold
         Height: =89
@@ -48,7 +48,7 @@ Home As screen:
         PressedColor: =Self.Color
         PressedFill: =App.Theme.Colors.Darker40
         Size: =24
-        Text: ="Entrar"
+        Text: ="Livros"
         Width: =485
         X: =77
         Y: =468

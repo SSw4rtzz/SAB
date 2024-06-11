@@ -14,12 +14,12 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Home.btnLogin.OnSelect"
+                  "fullyQualifiedName": "Home.btnLivros.OnSelect"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Home.btnLogin.OnSelect",
+                  "fullyQualifiedName": "Home.btnLivros.OnSelect",
                   "relativeAddress": 0
                 },
                 "region": {
@@ -33,7 +33,7 @@
               "properties": {
                 "member": "OnSelect",
                 "module": "Home",
-                "type": "Home.btnLogin"
+                "type": "Home.btnLivros"
               }
             }
           ],
