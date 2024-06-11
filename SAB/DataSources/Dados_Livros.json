@@ -1,0 +1,27 @@
+[
+  {
+    "ApiId": "/providers/microsoft.powerapps/apis/shared_excel",
+    "CdpRevision": {
+      "BaseUrl": "/",
+      "LastChangedTimeString": "2024-06-06T15:22:21.2020000Z",
+      "RevisionNumber": 1
+    },
+    "ConnectedDataSourceInfoNameMapping": {
+      "__PowerAppsId__": "Row id",
+      "Ano_x0020_de_x0020_Lançamento": "Ano de Lançamento",
+      "Autores": "Autores",
+      "Disponibilidade": "Disponibilidade",
+      "Edição": "Edição",
+      "Fotografia": "Fotografia",
+      "Género": "Género",
+      "Nome": "Nome",
+      "Páginas": "Páginas"
+    },
+    "DatasetName": "b!DdNfDKRkLkSecipS06cq242BY4o0iMxHqqRTOER9JFHCeN1v7r8aSYjqauggCTet.01WJ73FLE2KKU3WH2OJBALFOC3FVYHW3M4",
+    "EncodeDataset": true,
+    "IsSampleData": false,
+    "IsWritable": true,
+    "Name": "Dados_Livros",
+    "Type": "ConnectedDataSourceInfo"
+  }
+]

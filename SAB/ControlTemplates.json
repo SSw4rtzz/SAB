@@ -27,6 +27,73 @@
     "OverridableProperties": {},
     "Version": "2.2.0"
   },
+  "form": {
+    "CustomGroupControlTemplateName": "",
+    "FirstParty": true,
+    "Id": "http://microsoft.com/appmagic/form",
+    "IsComponentTemplate": false,
+    "IsCustomGroupControlTemplate": false,
+    "IsPcfControl": false,
+    "IsPremiumPcfControl": false,
+    "IsWidgetTemplate": true,
+    "LastModifiedTimestamp": "0",
+    "Name": "form",
+    "OverridableProperties": {},
+    "Version": "2.4.2"
+  },
+  "FormProcessor": {
+    "CustomGroupControlTemplateName": "",
+    "FirstParty": true,
+    "Id": "http://microsoft.com/appmagic/powercontrol/FormProcessor",
+    "IsComponentTemplate": false,
+    "IsCustomGroupControlTemplate": false,
+    "IsPcfControl": true,
+    "IsPremiumPcfControl": false,
+    "IsWidgetTemplate": false,
+    "LastModifiedTimestamp": "0",
+    "Name": "FormProcessor",
+    "OverridableProperties": {
+      "Checkboxes": {
+        "Type": {
+          "EnumString": "",
+          "Kind": "Record",
+          "Name": "Root",
+          "Type": []
+        },
+        "Version": "1.342"
+      },
+      "Fields": {
+        "Type": {
+          "EnumString": "",
+          "Kind": "Record",
+          "Name": "Root",
+          "Type": []
+        },
+        "Version": "1.342"
+      },
+      "Results": {
+        "Type": {
+          "EnumString": "",
+          "Kind": "Record",
+          "Name": "Root",
+          "Type": []
+        },
+        "Version": "1.342"
+      },
+      "Tables": {
+        "Type": {
+          "EnumString": "",
+          "Kind": "Record",
+          "Name": "Root",
+          "Type": []
+        },
+        "Version": "1.342"
+      }
+    },
+    "PCFDynamicSchemaForIRRetrieval": {},
+    "TemplateDisplayName": "FormProcessor",
+    "Version": "1.0.108"
+  },
   "gallery": {
     "CustomGroupControlTemplateName": "",
     "FirstParty": true,
@@ -177,5 +244,19 @@
     "Name": "text",
     "OverridableProperties": {},
     "Version": "2.3.2"
+  },
+  "typedDataCard": {
+    "CustomGroupControlTemplateName": "",
+    "FirstParty": true,
+    "Id": "http://microsoft.com/appmagic/card",
+    "IsComponentTemplate": false,
+    "IsCustomGroupControlTemplate": false,
+    "IsPcfControl": false,
+    "IsPremiumPcfControl": false,
+    "IsWidgetTemplate": false,
+    "LastModifiedTimestamp": "0",
+    "Name": "typedDataCard",
+    "OverridableProperties": {},
+    "Version": "1.0.6"
   }
 }

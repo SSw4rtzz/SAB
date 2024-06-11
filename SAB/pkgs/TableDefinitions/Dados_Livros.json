@@ -1,0 +1,7 @@
+{
+  "DataEntityMetadataJson": {
+    "Dados_Livros": "{\"name\":\"Dados_Livros\",\"title\":\"Dados_Livros\",\"x-ms-permission\":\"read-write\",\"schema\":{\"type\":\"array\",\"items\":{\"type\":\"object\",\"properties\":{\"Nome\":{\"type\":\"string\",\"x-ms-keyOrder\":0,\"x-ms-keyType\":\"none\",\"x-ms-sort\":\"none\",\"title\":\"Nome\"},\"Autores\":{\"type\":\"string\",\"x-ms-keyOrder\":0,\"x-ms-keyType\":\"none\",\"x-ms-sort\":\"none\",\"title\":\"Autores\"},\"Género\":{\"type\":\"string\",\"x-ms-keyOrder\":0,\"x-ms-keyType\":\"none\",\"x-ms-sort\":\"none\",\"title\":\"Género\"},\"Edição\":{\"type\":\"string\",\"x-ms-keyOrder\":0,\"x-ms-keyType\":\"none\",\"x-ms-sort\":\"none\",\"title\":\"Edição\"},\"Páginas\":{\"type\":\"string\",\"x-ms-keyOrder\":0,\"x-ms-keyType\":\"none\",\"x-ms-sort\":\"none\",\"title\":\"Páginas\"},\"Ano_x0020_de_x0020_Lançamento\":{\"type\":\"string\",\"x-ms-keyOrder\":0,\"x-ms-keyType\":\"none\",\"x-ms-sort\":\"none\",\"title\":\"Ano de Lançamento\"},\"Disponibilidade\":{\"type\":\"string\",\"x-ms-keyOrder\":0,\"x-ms-keyType\":\"none\",\"x-ms-sort\":\"none\",\"title\":\"Disponibilidade\"},\"Fotografia\":{\"type\":\"string\",\"x-ms-keyOrder\":0,\"x-ms-keyType\":\"none\",\"x-ms-sort\":\"none\",\"title\":\"Fotografia\"},\"__PowerAppsId__\":{\"type\":\"string\",\"x-ms-keyOrder\":1,\"x-ms-keyType\":\"primary\",\"x-ms-sort\":\"none\",\"x-ms-permission\":\"read-only\",\"title\":\"Row id\"}}}}}"
+  },
+  "EntityName": "Dados_Livros",
+  "TableName": "Dados_Livros"
+}

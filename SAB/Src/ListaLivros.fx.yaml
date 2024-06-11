@@ -15,7 +15,7 @@
         Font: =App.Theme.Font
         Height: =88
         Size: =27
-        Text: ="[Título]"
+        Text: ="Lista de Livros"
         Width: =Parent.Width - Self.X - IconSortUpDown1.Width - IconNewItem1.Width - IconRefresh1.Width
         Wrap: =false
         X: =20
@@ -135,7 +135,7 @@
         BorderColor: =App.Theme.Colors.Darker40
         DelayItemLoading: =true
         Height: =Parent.Height - Self.Y
-        Items: =SortByColumns(Search(CustomGallerySample, TextSearchBox1.Text, SampleText), "SampleText", If(SortDescending1, SortOrder.Descending, SortOrder.Ascending))
+        Items: =Dados_Livros
         Layout: =Layout.Vertical
         LoadingSpinner: =LoadingSpinner.Data
         ShowScrollbar: =false
@@ -171,7 +171,7 @@
             PaddingLeft: =0
             PaddingRight: =0
             PaddingTop: =0
-            Text: =ThisItem.SampleHeading
+            Text: =ThisItem.'Ano de Lançamento'
             VerticalAlign: =VerticalAlign.Top
             Width: =Parent.TemplateWidth - 173
             X: =103
@@ -190,7 +190,7 @@
             PaddingRight: =0
             PaddingTop: =0
             Size: =12
-            Text: =ThisItem.SampleText
+            Text: =ThisItem.Autores
             VerticalAlign: =VerticalAlign.Top
             Width: =Title1.Width
             X: =Title1.X

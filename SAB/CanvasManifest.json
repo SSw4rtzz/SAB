@@ -115,7 +115,6 @@
     "FileID": "b4f77c3d-fe4f-431d-aafe-b835e5dcf59f",
     "Id": "b4f77c3d-fe4f-431d-aafe-b835e5dcf59f",
     "InstrumentationKey": "",
-    "LocalDatabaseReferences": "",
     "ManualOfflineProfileId": "",
     "Name": "SAB",
     "OriginatingVersion": "1.342",
@@ -136,6 +135,7 @@
   "ScreenOrder": [
     "Home",
     "ListaLivros",
-    "Utilizador_InfoLivro"
+    "Utilizador_InfoLivro",
+    "LivrosAdd"
   ]
 }
