@@ -100,7 +100,7 @@
       "zeroalltabindexes": true
     },
     "Author": "",
-    "BindingErrorCount": 0,
+    "BindingErrorCount": 13,
     "ContainsThirdPartyPcfControls": false,
     "DefaultConnectedDataSourceMaxGetRowsCount": 500,
     "DocumentAppType": "Phone",
@@ -116,7 +116,7 @@
     "Id": "b4f77c3d-fe4f-431d-aafe-b835e5dcf59f",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "",
-    "ManualOfflineProfileId": null,
+    "ManualOfflineProfileId": "",
     "Name": "SAB",
     "OriginatingVersion": "1.342",
     "ParserErrorCount": 0,
@@ -134,6 +134,8 @@
     "UserLocale": "pt-PT"
   },
   "ScreenOrder": [
-    "Screen1"
+    "Home",
+    "Screen1",
+    "Utilizador_InfoLivro"
   ]
 }
