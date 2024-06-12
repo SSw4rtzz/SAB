@@ -4,7 +4,14 @@
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         "AutoDisableOnSelect",
-        "BorderThickness",
+        {
+          "AFDDataSourceName": "",
+          "AutoRuleBindingEnabled": false,
+          "AutoRuleBindingString": "",
+          "InvariantPropertyName": "BorderThickness",
+          "IsLockable": false,
+          "NameMapSourceSchema": "?"
+        },
         "DisabledBorderColor",
         "DisabledColor",
         "DisabledFill",
