@@ -49,7 +49,7 @@ Home As screen:
         Text: ="Livros"
         Width: =485
         X: =77
-        Y: =468
+        Y: =490
         ZIndex: =3
 
     btnCriarConta As button:
