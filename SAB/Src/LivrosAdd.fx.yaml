@@ -731,10 +731,10 @@
             DataField: ="Ano_x0020_de_x0020_Lançamento"
             Default: =ThisItem.'Ano de Lançamento'
             DisplayMode: =Parent.DisplayMode
-            DisplayName: =DataSourceInfo([@Dados_Livros],DataSourceInfo.DisplayName,Ano_x0020_de_x0020_Lançamento)
+            DisplayName: =DataSourceInfo([@Dados_Livros],DataSourceInfo.DisplayName,'Ano de Lançamento')
             Fill: =RGBA(0, 0, 0, 0)
             Height: =50
-            MaxLength: =DataSourceInfo([@Dados_Livros], DataSourceInfo.MaxLength, Ano_x0020_de_x0020_Lançamento)
+            MaxLength: =DataSourceInfo([@Dados_Livros], DataSourceInfo.MaxLength, 'Ano de Lançamento')
             Required: =false
             Update: =DataCardValue1.Text
             Width: =640
