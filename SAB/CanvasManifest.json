@@ -100,7 +100,7 @@
       "zeroalltabindexes": true
     },
     "Author": "",
-    "BindingErrorCount": 2,
+    "BindingErrorCount": 1,
     "ContainsThirdPartyPcfControls": false,
     "DefaultConnectedDataSourceMaxGetRowsCount": 500,
     "DocumentAppType": "Phone",
@@ -115,6 +115,7 @@
     "FileID": "b4f77c3d-fe4f-431d-aafe-b835e5dcf59f",
     "Id": "b4f77c3d-fe4f-431d-aafe-b835e5dcf59f",
     "InstrumentationKey": "",
+    "LocalDatabaseReferences": "",
     "ManualOfflineProfileId": "",
     "Name": "SAB",
     "OriginatingVersion": "1.342",
