@@ -1,0 +1,40 @@
+{
+  "572cdff5-5930-4476-94a1-deee795813d6": {
+    "connectionRef": {
+      "displayName": "OneDrive para Empresas",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1689/1.0.1689.3722/onedriveforbusiness/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_onedriveforbusiness"
+    },
+    "datasets": {},
+    "dataSources": [],
+    "dependencies": {},
+    "dependents": [
+      "67f135ad-ba40-4f93-bfa6-86fa04894023"
+    ],
+    "id": "572cdff5-5930-4476-94a1-deee795813d6"
+  },
+  "67f135ad-ba40-4f93-bfa6-86fa04894023": {
+    "connectionRef": {
+      "displayName": "Excel",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1694/1.0.1694.3752/excel/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_excel"
+    },
+    "datasets": {
+      "b!DdNfDKRkLkSecipS06cq242BY4o0iMxHqqRTOER9JFHCeN1v7r8aSYjqauggCTet.01WJ73FLE2KKU3WH2OJBALFOC3FVYHW3M4": {
+        "dataSources": {
+          "Dados_Livros": {
+            "tableName": "Dados_Livros"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "Dados_Livros"
+    ],
+    "dependencies": {
+      "fileSource": "572cdff5-5930-4476-94a1-deee795813d6"
+    },
+    "dependents": [],
+    "id": "67f135ad-ba40-4f93-bfa6-86fa04894023"
+  }
+}

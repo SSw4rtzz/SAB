@@ -1,0 +1,146 @@
+Home As screen:
+    BackgroundImage: =
+    Fill: =Color.White
+    Height: =Max(App.Height, App.DesignHeight)
+    ImagePosition: =ImagePosition.Fill
+    LoadingSpinnerColor: =App.Theme.Colors.Primary
+    OnVisible: =Set(ShowAccessError,false)
+    Width: =Max(App.Width, App.DesignWidth)
+
+    BackGround As image:
+        BorderColor: =App.Theme.Colors.Darker40
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244,1)
+        Fill: =
+        FocusedBorderColor: =BackGround.BorderColor
+        Height: =1136
+        Image: ='943859966'
+        ImagePosition: =ImagePosition.Fill
+        Transparency: =0.1
+        Width: =640
+        ZIndex: =1
+
+    Rectangle1 As rectangle:
+        BorderColor: =App.Theme.Colors.Darker40
+        Fill: =RGBA(0,0,0,0.7)
+        Height: =1136
+        Width: =640
+        ZIndex: =2
+
+    btnLivros As button:
+        BorderColor: =App.Theme.Colors.Primary
+        BorderThickness: =0
+        DisabledBorderColor: =
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        Fill: =RGBA(199,124,78,1)
+        FocusedBorderColor: =btnLivros.BorderColor
+        Font: =App.Theme.Font
+        FontWeight: =FontWeight.Semibold
+        Height: =89
+        HoverBorderColor: =App.Theme.Colors.Darker10
+        HoverColor: =RGBA(255, 255, 255, 1)
+        HoverFill: =App.Theme.Colors.Darker10
+        OnSelect: =
+        PressedBorderColor: =App.Theme.Colors.Darker40
+        PressedColor: =Self.Color
+        PressedFill: =App.Theme.Colors.Darker40
+        Size: =24
+        Text: ="Livros"
+        Width: =485
+        X: =77
+        Y: =490
+        ZIndex: =3
+
+    btnCriarConta As button:
+        BorderColor: =App.Theme.Colors.Primary
+        BorderThickness: =0
+        DisabledBorderColor: =RGBA(244, 244, 244, 1)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        Fill: =RGBA(199,124,78,0.5)
+        FocusedBorderColor: =btnCriarConta.BorderColor
+        Font: =App.Theme.Font
+        FontWeight: =FontWeight.Semibold
+        Height: =74
+        HoverBorderColor: =App.Theme.Colors.Darker10
+        HoverColor: =RGBA(255, 255, 255, 1)
+        HoverFill: =App.Theme.Colors.Darker10
+        OnSelect: =
+        PressedBorderColor: =App.Theme.Colors.Darker40
+        PressedColor: =Self.Color
+        PressedFill: =App.Theme.Colors.Darker40
+        Size: =24
+        Text: ="Criar Conta"
+        Width: =356
+        X: =142
+        Y: =923
+        ZIndex: =4
+
+    LogoAplicacao As label:
+        Align: =Align.Center
+        BorderColor: =App.Theme.Colors.Darker40
+        Color: =RGBA(255, 255, 255, 1)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        FocusedBorderColor: =LogoAplicacao.BorderColor
+        Font: =Font.'Dancing Script'
+        Height: =251
+        HoverBorderColor: =LogoAplicacao.BorderColor
+        HoverColor: =LogoAplicacao.Color
+        HoverFill: =LogoAplicacao.Fill
+        PressedBorderColor: =LogoAplicacao.BorderColor
+        PressedColor: =LogoAplicacao.Color
+        PressedFill: =LogoAplicacao.Fill
+        Size: =100
+        Text: ="SAB"
+        Width: =372
+        X: =134
+        Y: =92
+        ZIndex: =5
+
+    "'LoginScreenAccessDeniedText (APAGAR)' As label":
+        Align: =LayoutAlignItems.Center
+        BorderColor: =App.Theme.Colors.Darker40
+        Color: =RGBA(0, 0, 0, 1)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        FocusedBorderColor: ='LoginScreenAccessDeniedText (APAGAR)'.BorderColor
+        Font: =App.Theme.Font
+        Height: =98
+        HoverBorderColor: ='LoginScreenAccessDeniedText (APAGAR)'.BorderColor
+        HoverColor: ='LoginScreenAccessDeniedText (APAGAR)'.Color
+        HoverFill: ='LoginScreenAccessDeniedText (APAGAR)'.Fill
+        PressedBorderColor: ='LoginScreenAccessDeniedText (APAGAR)'.BorderColor
+        PressedColor: ='LoginScreenAccessDeniedText (APAGAR)'.Color
+        PressedFill: ='LoginScreenAccessDeniedText (APAGAR)'.Fill
+        Size: =21
+        Text: ="We were unable to give you access as an admin as your account does not have admin privileges."
+        Visible: =ShowAccessError
+        Width: =640
+        Y: =787
+        ZIndex: =6
+
+    btnSobre As button:
+        BorderColor: =App.Theme.Colors.Primary
+        BorderThickness: =0
+        DisabledBorderColor: =RGBA(244, 244, 244, 1)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        Fill: =RGBA(199,124,78,0.5)
+        FocusedBorderColor: =btnSobre.BorderColor
+        Font: =App.Theme.Font
+        FontWeight: =FontWeight.Semibold
+        Height: =74
+        HoverBorderColor: =App.Theme.Colors.Darker10
+        HoverColor: =RGBA(255, 255, 255, 1)
+        HoverFill: =App.Theme.Colors.Darker10
+        OnSelect: =
+        PressedBorderColor: =App.Theme.Colors.Darker40
+        PressedColor: =Self.Color
+        PressedFill: =App.Theme.Colors.Darker40
+        Size: =24
+        Text: ="Sobre"
+        Width: =356
+        X: =142
+        Y: =1020
+        ZIndex: =7
+
